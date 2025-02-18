@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"68140f5c9d73725c","type":"file","file":"Semester 1/Images/Pasted image 20241007103224.png","x":-1440,"y":-439,"width":400,"height":400},
+		{"id":"55a39e721bb8b09e","type":"file","file":"Semester 1/Images/Pasted image 20241007103235.png","x":-840,"y":-418,"width":400,"height":359},
+		{"id":"c91c782fbf8e3fa4","type":"file","file":"Semester 1/Images/Pasted image 20241007103256.png","x":-320,"y":-431,"width":400,"height":372},
+		{"id":"2c9b4f1391ae4fe1","type":"file","file":"Semester 1/Images/Pasted image 20241007103331.png","x":-320,"y":120,"width":233,"height":215},
+		{"id":"4ab0aba0c3c87edd","type":"file","file":"Semester 1/Images/Pasted image 20241007103235.png","x":-840,"y":130,"width":229,"height":205},
+		{"id":"b82007838a196026","type":"file","file":"Semester 1/Images/Pasted image 20241007103224.png","x":-1440,"y":120,"width":230,"height":230},
+		{"id":"09553e954b1c00ea","type":"text","text":"Med en dobbelt cirkel kan beregningen ende her, hvis den med success kan kommer herhen","x":80,"y":175,"width":360,"height":160},
+		{"id":"77e04f9be99d3d37","type":"file","file":"Semester 1/Images/Pasted image 20241007103224.png","x":-1440,"y":560,"width":230,"height":230},
+		{"id":"dcee4ff3fa5e3c51","type":"file","file":"Semester 1/Images/Pasted image 20241007103235.png","x":-869,"y":560,"width":229,"height":205},
+		{"id":"ef6d9a7facd3fe8b","type":"file","file":"Semester 1/Images/Pasted image 20241007103331.png","x":-353,"y":560,"width":233,"height":215},
+		{"id":"492d8e8edabae168","type":"text","text":"Ignore me","x":-640,"y":440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"b58bbc56bc2870c5","fromNode":"68140f5c9d73725c","fromSide":"right","toNode":"55a39e721bb8b09e","toSide":"left"},
+		{"id":"c6fb8d64b80d5d48","fromNode":"55a39e721bb8b09e","fromSide":"right","toNode":"c91c782fbf8e3fa4","toSide":"left"},
+		{"id":"86621f7fcab944b7","fromNode":"b82007838a196026","fromSide":"right","toNode":"4ab0aba0c3c87edd","toSide":"left"},
+		{"id":"d8447e7c1139e023","fromNode":"4ab0aba0c3c87edd","fromSide":"right","toNode":"2c9b4f1391ae4fe1","toSide":"left"},
+		{"id":"3af3f67a07349daf","fromNode":"2c9b4f1391ae4fe1","fromSide":"right","toNode":"09553e954b1c00ea","toSide":"left"},
+		{"id":"acc6192ad726ac88","fromNode":"dcee4ff3fa5e3c51","fromSide":"right","toNode":"ef6d9a7facd3fe8b","toSide":"left"},
+		{"id":"0347f89db0a5c444","fromNode":"dcee4ff3fa5e3c51","fromSide":"right","toNode":"492d8e8edabae168","toSide":"left"},
+		{"id":"958d0385ca04786d","fromNode":"492d8e8edabae168","fromSide":"right","toNode":"dcee4ff3fa5e3c51","toSide":"top"},
+		{"id":"4dc26f9decc39990","fromNode":"77e04f9be99d3d37","fromSide":"right","toNode":"dcee4ff3fa5e3c51","toSide":"left"}
+	]
+}
