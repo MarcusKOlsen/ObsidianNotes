@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grouping and Aggregation"
+              "title": "Session 4 Answers"
             }
           }
         ]
@@ -28,15 +28,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afa025877d151249",
+            "id": "1998e5d327a422c7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Lecture4.pdf"
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture4"
+              "title": "Exercise_session_4"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grouping and Aggregation"
+              "title": "Backlinks for Exercise_session_4"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Grouping and Aggregation"
+              "title": "Outline of Exercise_session_4"
             }
           }
         ],
@@ -189,8 +189,16 @@
       "timethings:Activate view": false
     }
   },
-  "active": "639aacc6c2b5ec41",
+  "active": "1998e5d327a422c7",
   "lastOpenFiles": [
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
+    "Pasted image 20250219103336.png",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf",
+    "Pasted image 20250219103136.png",
+    "Pasted image 20250219102741.png",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Exercise_session_2.pdf",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 4",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
     "Semester 2/1Images/Pasted image 20250218132740.png",
     "Semester 2/1Images/Pasted image 20250218132734.png",
     "Semester 2/1Images/Pasted image 20250218132707.png",
@@ -200,15 +208,10 @@
     "Semester 2/1Images/Pasted image 20250218132540.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Duplicate Elimination.md",
     "Semester 2/1Images/Pasted image 20250218132531.png",
-    "Semester 2/1Images/Pasted image 20250218132513.png",
-    "Semester 2/1Images/Pasted image 20250218132450.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Extended Relational Algebra.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Excersize.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that appear in FROM clauses.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/180225.md",
-    "Semester 2/1Images/Pasted image 20250218124819.png",
-    "Semester 2/1Images/Pasted image 20250218124730.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/SQL Operators that can be applied to a Relation.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return one tuple.md",
@@ -230,14 +233,10 @@
     "Semester 2/AI501/Lectures/Febuary/170225/03_Simple_Search.pdf",
     "Semester 2/AI501/Lectures/Febuary/170225/170225.md",
     "Semester 2/AI501/AI501.md",
-    "Semester 2/AI501/Lectures/Febuary/170225",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Session 2 answers.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/060225/Lecture2.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/SQL Comparisons.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/Lecture3.pdf",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Session 2.md",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 1/Answers.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 1/Session 1.md",
     "Semester 1/(DM549, DS820)/Lectures/October/071024/DFA.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas",
     "Intro til discrete math (MM537, DM547, DM549, DS820)/090924/Untitled.canvas"
