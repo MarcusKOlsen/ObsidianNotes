@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"(DM549, DS820)\"  ",
@@ -46,7 +46,7 @@
       "query": "path:\"Semester 2/Algoritmer & Datastrukturer\"  ",
       "color": {
         "a": 1,
-        "rgb": 14736466
+        "rgb": 47184
       }
     }
   ],
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 1.347920997921,
   "collapse-forces": false,
   "centerStrength": 0.38572751228545,
-  "repelStrength": 6.62061106758778,
-  "linkStrength": 1,
+  "repelStrength": 15.7082828858343,
+  "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.2501409316766326,
-  "close": false
+  "scale": 0.05921205578647234,
+  "close": true
 }

@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "bb0c690d20503a57",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e0aea3bbd0e09bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 4 Answers"
-            }
-          }
-        ]
-      },
-      {
         "id": "75cc11d856c61245",
         "type": "tabs",
         "children": [
@@ -33,10 +13,30 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf"
+                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Lecture5.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Exercise_session_4"
+              "title": "Lecture5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d6f30a77378e21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e5c7c113c3fd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Database modification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database modification"
             }
           }
         ]
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf",
+                "file": "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Database modification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exercise_session_4"
+              "title": "Outline of Database modification"
             }
           }
         ],
@@ -189,54 +189,55 @@
       "timethings:Activate view": false
     }
   },
-  "active": "1998e5d327a422c7",
+  "active": "639aacc6c2b5ec41",
   "lastOpenFiles": [
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
-    "Pasted image 20250219103336.png",
+    "Semester 2/1Images/Pasted image 20250220115618.png",
+    "Semester 2/1Images/Pasted image 20250220115609.png",
+    "Semester 2/1Images/Pasted image 20250220115608.png",
+    "Semester 2/1Images/Pasted image 20250220115558.png",
+    "Semester 2/1Images/Pasted image 20250220115550.png",
+    "Semester 2/1Images/Pasted image 20250220115514.png",
+    "Semester 2/1Images/Pasted image 20250220115509.png",
+    "Semester 2/1Images/Pasted image 20250220115500.png",
+    "Semester 2/1Images/Pasted image 20250220115445.png",
+    "Semester 2/1Images/Pasted image 20250220115435.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/200225.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Database modification.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Lecture5.pdf",
+    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
+    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/040225/040225.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/040205.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/Febuary.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Lecture4.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/Lecture3.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/060225/Lecture2.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/110225.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/180225.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/HAVING.md",
+    "Semester 2/1Images/Pasted image 20250220103210.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Restrictions on SELECTing with aggregations.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Aggregations.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Bag Semantics.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Controlling duplicate elimination.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Ordering results.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Outerjoins.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Grouping.md",
+    "Semester 2/Objektorienteret programmering DM575/Excersizes/Session 3/Øvelsessæt 3.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Exercise_session_4.pdf",
-    "Pasted image 20250219103136.png",
-    "Pasted image 20250219102741.png",
+    "Semester 2/Objektorienteret programmering DM575/Excersizes/Session 3",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Exercise_session_2.pdf",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 4",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Grouping and Aggregation.md",
-    "Semester 2/1Images/Pasted image 20250218132740.png",
-    "Semester 2/1Images/Pasted image 20250218132734.png",
-    "Semester 2/1Images/Pasted image 20250218132707.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Tuple sorting.md",
-    "Semester 2/1Images/Pasted image 20250218132647.png",
-    "Semester 2/1Images/Pasted image 20250218132640.png",
-    "Semester 2/1Images/Pasted image 20250218132540.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Duplicate Elimination.md",
-    "Semester 2/1Images/Pasted image 20250218132531.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Extended Relational Algebra.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Excersize.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that appear in FROM clauses.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/180225.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/SQL Operators that can be applied to a Relation.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return one tuple.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Lecture4.pdf",
-    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return Relations.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/Febuary/180225/Forelæsning 04.pdf",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/Febuary/180225/180225.md",
-    "Semester 2/Objektorienteret programmering DM575/Objektorienteret programmering DM575.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/Febuary/180225",
-    "Semester 2/AI501/Lectures/Febuary/170225/04_Search_Complex_Environments.pdf",
-    "Semester 2/AI501/Lectures/Febuary/170225/Optimizing local search.md",
-    "Semester 2/AI501/Lectures/Febuary/170225/Fixing Hill-climbing.md",
-    "Semester 2/AI501/Lectures/Febuary/170225/Problems with hill-climbing.md",
-    "Excalidraw",
     "Semester 2/AI501/Lectures/Febuary/170225/Untitled.canvas",
-    "Semester 2/AI501/Lectures/Febuary/170225/Simple Searches.md",
-    "Semester 2/AI501/Lectures/Febuary/170225/03_Simple_Search.pdf",
-    "Semester 2/AI501/Lectures/Febuary/170225/170225.md",
-    "Semester 2/AI501/AI501.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Session 2 answers.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/SQL Comparisons.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 2/Session 2.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 1/Answers.md",
     "Semester 1/(DM549, DS820)/Lectures/October/071024/DFA.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas",
     "Intro til discrete math (MM537, DM547, DM549, DS820)/090924/Untitled.canvas"

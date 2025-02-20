@@ -7,6 +7,8 @@ edited_seconds: 30
 	- **Books**
 
 	- **Excersizes**
+		- **Session 3**
+
 	- **[[Lectures]]**
 		- **Febuary**
 			- **[[040205]]**

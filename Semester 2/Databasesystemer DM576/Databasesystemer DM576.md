@@ -37,6 +37,16 @@ edited_seconds: 10
 				- [[Subqueries that return Relations]]
 				- [[Subqueries]]
 				- [[Tuple sorting]]
+			- **[[200225]]**
+				- [[Aggregations]]
+				- [[Bag Semantics]]
+				- [[Controlling duplicate elimination]]
+				- [[Database modification]]
+				- [[Grouping]]
+				- [[HAVING]]
+				- [[Ordering results]]
+				- [[Outerjoins]]
+				- [[Restrictions on SELECTing with aggregations]]
 
 %% End Waypoint %%
  
