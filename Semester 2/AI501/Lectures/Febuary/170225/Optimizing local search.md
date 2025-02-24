@@ -21,7 +21,7 @@ Starting from a configuration, you move to a neighbor configuration (different p
 
 #### Pseudocode
 ![[Pasted image 20250217105719.png]]
-#### [[Problems with hill-climbing]] 
-#### [[Fixing Hill-climbing]]
+#### [[Draw_Problems with hill-climbing]] 
+#### [[Draw_Fixing Hill-climbing]]
 ##### Simulated Annealing
 ![[Pasted image 20250217110832.png]]
