@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/AI501/Lectures/Febuary/170225/04_Search_Complex_Environments.pdf"
+                "file": "Semester 2/AI501/Lectures/Febuary/240225/05_Adversarial_Search_And_Games.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "04_Search_Complex_Environments"
+              "title": "05_Adversarial_Search_And_Games"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/AI501/Lectures/Febuary/170225/04_Search_Complex_Environments.pdf",
+                "file": "Semester 2/AI501/Lectures/Febuary/240225/05_Adversarial_Search_And_Games.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04_Search_Complex_Environments"
+              "title": "Outline of 05_Adversarial_Search_And_Games"
             }
           }
         ],
@@ -171,17 +171,21 @@
   },
   "active": "e2a777ca1388e784",
   "lastOpenFiles": [
+    "Semester 2/AI501/Lectures/Febuary/240225/Games.md",
+    "Semester 2/AI501/Lectures/Febuary/240225/05_Adversarial_Search_And_Games.pdf",
     "Semester 2/AI501/Lectures/Febuary/170225/Search With Nondeterministic actions.md",
-    "Semester 2/1Images/Pasted image 20250224104425.png",
+    "Semester 2/1Images/Pasted image 20250224113158.png",
+    "Semester 2/1Images/Pasted image 20250224113232.png",
+    "Semester 2/1Images/Pasted image 20250224113156.png",
+    "Semester 2/AI501/Lectures/Febuary/240225/240225.md",
     "Semester 2/AI501/Lectures/Febuary/170225/04_Search_Complex_Environments.pdf",
+    "Semester 2/1Images/Pasted image 20250224104425.png",
     "Semester 2/1Images/Pasted image 20250224104407.png",
     "Semester 2/AI501/Lectures/Febuary/170225/03_Simple_Search.pdf",
-    "Semester 2/AI501/Lectures/Febuary/240225/05_Adversarial_Search_And_Games.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Ordering results.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Outerjoins.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Controlling duplicate elimination.md",
     "Untitled.canvas",
-    "Semester 2/AI501/Lectures/Febuary/240225/240225.md",
     "Semester 2/AI501/AI501.md",
     "Semester 2/Objektorienteret programmering DM575/Objektorienteret programmering DM575.md",
     "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
@@ -203,9 +207,6 @@
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Database modification.md",
     "Semester 2/1Images/Pasted image 20250220115618.png",
     "Semester 2/1Images/Pasted image 20250220115609.png",
-    "Semester 2/1Images/Pasted image 20250220115608.png",
-    "Semester 2/1Images/Pasted image 20250220115558.png",
-    "Semester 2/1Images/Pasted image 20250220115550.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/200225.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Lecture5.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/040225/040225.md",
@@ -216,7 +217,6 @@
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/110225/110225.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/180225.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/HAVING.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Restrictions on SELECTing with aggregations.md",
     "Semester 2/AI501/Lectures/Febuary/170225/Untitled.canvas",
     "Semester 1/(DM549, DS820)/Lectures/October/071024/DFA.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas",
