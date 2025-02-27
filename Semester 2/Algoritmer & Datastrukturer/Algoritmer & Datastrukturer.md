@@ -9,8 +9,19 @@ edited_seconds: 10
 	- **Excersizes**
 	- **Lectures**
 		- **[[Febuary]]**
-			- **[[Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/040205]]**
+			- **[[040205]]**
 				- [[Intro til kurset]]
 				- [[Konkret indhold af kurset]]
+			- **[[270225]]**
+				- [[Arrays]]
+				- [[Binary Trees]]
+				- [[Build-max-heap]]
+				- [[Heap-facon]]
+				- [[Heap-orden]]
+				- [[Heapsort]]
+				- [[Max-heapify]]
+				- [[Operations on a heap]]
+				- [[Partition]]
+				- [[Quicksort]]
 
 %% End Waypoint %%

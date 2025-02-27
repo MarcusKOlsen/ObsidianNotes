@@ -47,6 +47,11 @@ edited_seconds: 10
 				- [[Ordering results]]
 				- [[Outerjoins]]
 				- [[Restrictions on SELECTing with aggregations]]
+			- **[[250225]]**
+				- [[Closure of an attribute]]
+				- [[Functional Dependencies]]
+				- [[Relation Keys]]
+				- [[Trivial Functional Dependencies]]
 
 %% End Waypoint %%
  
