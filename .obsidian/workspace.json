@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4af1b04764a80d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb7df60eb416e12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed51e68860572fa9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Semester 2/1Images/Pasted image 20250228095117.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250228095117"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b50aade6e4995a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b987cb36ffcb06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170137f3c807b223",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6b780792c976d43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "faa379c9df8f597a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6aec5da19a52139d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Exercise_session_5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exercise_session_5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 643.5041885375977
+  },
+  "right": {
+    "id": "1b54f6b148d45638",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c77c41ec545d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c33b2b32c320f629",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20250228095117"
+            }
+          },
+          {
+            "id": "9f80319d89bb62eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20250228095117"
+            }
+          },
+          {
+            "id": "0e5a73dc815a2efc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "532da91e92de8930",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20250228095117"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false,
+      "timethings:Activate view": false
+    }
+  },
+  "active": "170137f3c807b223",
+  "lastOpenFiles": [
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Session 5 Answers.md",
+    "Semester 2/1Images/Pasted image 20250228095117.png",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Exercise_session_5.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/SQL Operators that can be applied to a Relation.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return Relations.md",
+    "Semester 2/1Images/Pasted image 20250228091827.png",
+    "Semester 2/1Images/Pasted image 20250228091137.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Aggregations.md",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return one tuple.md",
+    "Semester 2/1Images/Pasted image 20250228090119.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Tuple sorting.md",
+    "Semester 2/1Images/Pasted image 20250228085855.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Grouping.md",
+    "Semester 2/1Images/Pasted image 20250228085723.png",
+    "Semester 2/1Images/Pasted image 20250228085334.png",
+    "Semester 2/1Images/Pasted image 20250228085245.png",
+    "Semester 2/1Images/Pasted image 20250228085015.png",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Restrictions on SELECTing with aggregations.md",
+    "Semester 2/1Images/Pasted image 20250228084156.png",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
+    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 5"
+  ]
+}

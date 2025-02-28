@@ -13,6 +13,8 @@ edited_seconds: 10
 			- [[Session 2 answers]]
 		- **Session 4**
 			- [[Session 4 Answers]]
+		- **Session 5**
+			- [[Session 5 Answers]]
 	- **Lectures**
 		- **Febuary**
 			- **[[040225]]**
