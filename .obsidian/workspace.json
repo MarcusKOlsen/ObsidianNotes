@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fb7df60eb416e12",
+        "id": "d218b096900e05b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ed51e68860572fa9",
+            "id": "78dbb55a4ec10a90",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/1Images/Pasted image 20250228095117.png"
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250228095117"
+              "icon": "lucide-file",
+              "title": "Måle tidsforbrug"
             }
           }
         ]
@@ -88,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 643.5041885375977
+    "width": 274.50418853759766
   },
   "right": {
     "id": "1b54f6b148d45638",
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250228095117"
+              "title": "Backlinks for Måle tidsforbrug"
             }
           },
           {
@@ -123,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250228095117"
+              "title": "Outgoing links from Måle tidsforbrug"
             }
           },
           {
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/1Images/Pasted image 20250228095117.png",
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250228095117"
+              "title": "Outline of Måle tidsforbrug"
             }
           }
         ]
@@ -182,29 +184,49 @@
       "timethings:Activate view": false
     }
   },
-  "active": "170137f3c807b223",
+  "active": "78dbb55a4ec10a90",
   "lastOpenFiles": [
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/130225/asymptoticAnalysis.pdf",
+    "Semester 2/1Images/Pasted image 20250303132953.png",
+    "Semester 2/1Images/Pasted image 20250303132920.png",
+    "Semester 2/1Images/Pasted image 20250303132652.png",
+    "Semester 2/1Images/Pasted image 20250303123906.png",
+    "Semester 2/1Images/Pasted image 20250303123852.png",
+    "Semester 2/1Images/Pasted image 20250303123836.png",
+    "Semester 2/1Images/Pasted image 20250303123820.png",
+    "Semester 2/1Images/Pasted image 20250303123719.png",
+    "Semester 2/1Images/Pasted image 20250303123713.png",
+    "Semester 2/1Images/Pasted image 20250303123517.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/algoritmeAnalyseIntro.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Voksehastighed.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/270225/Quicksort.md",
+    "Semester 2/Algoritmer & Datastrukturer/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/110225.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/sortingSlides.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/270225/Partition.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/introSlides.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/Konkret indhold af kurset.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Algoritmeanalyse.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/RAM-modellen.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Korrekthed og kvalitet af algoritmer.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/270225/sortingSlides.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/Febuary.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/040325/sortingInLinearTimeSlides.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/040325",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/Intro til kurset.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040325",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/250225/divideAndConquerFirstIntroSlides.pdf",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Session 5 Answers.md",
-    "Semester 2/1Images/Pasted image 20250228095117.png",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Exercise_session_5.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/SQL Operators that can be applied to a Relation.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return Relations.md",
-    "Semester 2/1Images/Pasted image 20250228091827.png",
-    "Semester 2/1Images/Pasted image 20250228091137.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Aggregations.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Subqueries that return one tuple.md",
-    "Semester 2/1Images/Pasted image 20250228090119.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/180225/Tuple sorting.md",
-    "Semester 2/1Images/Pasted image 20250228085855.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Grouping.md",
-    "Semester 2/1Images/Pasted image 20250228085723.png",
-    "Semester 2/1Images/Pasted image 20250228085334.png",
-    "Semester 2/1Images/Pasted image 20250228085245.png",
-    "Semester 2/1Images/Pasted image 20250228085015.png",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/200225/Restrictions on SELECTing with aggregations.md",
-    "Semester 2/1Images/Pasted image 20250228084156.png",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 4/Session 4 Answers.md",
-    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 5"
+    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md"
   ]
 }

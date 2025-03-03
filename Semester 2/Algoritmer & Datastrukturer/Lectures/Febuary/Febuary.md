@@ -1,5 +1,4 @@
 ---
-updated_at: 2025-02-20T10:41:29.491+01:00
-edited_seconds: 30
+updated_at: 2025-03-03T12:31:41.894+01:00
+edited_seconds: 40
 ---
-[[Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/040205|040205]]

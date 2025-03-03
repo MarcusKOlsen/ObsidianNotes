@@ -12,6 +12,18 @@ edited_seconds: 10
 			- **[[040205]]**
 				- [[Intro til kurset]]
 				- [[Konkret indhold af kurset]]
+			- **[[110225]]**
+				- [[Algoritmeanalyse]]
+				- [[Korrekthed og kvalitet af algoritmer]]
+				- [[Måle tidsforbrug]]
+				- [[RAM-modellen]]
+				- [[Voksehastighed]]
+			- **130225**
+
+			- **180225**
+
+			- **250225**
+
 			- **[[270225]]**
 				- [[Arrays]]
 				- [[Binary Trees]]
@@ -23,5 +35,8 @@ edited_seconds: 10
 				- [[Operations on a heap]]
 				- [[Partition]]
 				- [[Quicksort]]
+		- **March**
+			- **040325**
+
 
 %% End Waypoint %%
