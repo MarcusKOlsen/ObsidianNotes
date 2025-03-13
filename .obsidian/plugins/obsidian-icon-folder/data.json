@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🏜",
-      "LiRat",
-      "LiLightbulb",
-      "LiTrendingUpDown",
-      "LiArrowDownWideNarrow"
+      "🔍",
+      "OcFileAdded16",
+      "OcGitMergeQueue16",
+      "LiTreePine",
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -113,5 +113,11 @@
   "Semester 2/Objektorienteret programmering DM575/Books": "LiBook",
   "Semester 2/Objektorienteret programmering DM575/Excersizes": "LiBicepsFlexed",
   "Semester 2/Objektorienteret programmering DM575/Lectures": "LiLectern",
-  "Semester 2/Objektorienteret programmering DM575/Books/Java Software Solutions - Foundations of Program Design, Global Edition, 9th Edition.pdf": "LiCoffee"
+  "Semester 2/Objektorienteret programmering DM575/Books/Java Software Solutions - Foundations of Program Design, Global Edition, 9th Edition.pdf": "LiCoffee",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Dictionary.md": "LiBook",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Datastrukturer.md": "LiDatabase",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Binary Searching Trees.md": "LiTreePine",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Implementations of priority queues.md": "OcGitMergeQueue16",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Inserting into binary trees.md": "OcFileAdded16",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Prioritetskøer.md": "OcGitMergeQueue16"
 }

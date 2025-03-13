@@ -38,5 +38,17 @@ edited_seconds: 10
 		- **March**
 			- **040325**
 
+			- **[[110325]]**
+				- [[Binary Searching Trees]]
+				- [[Datastrukturer]]
+				- [[Dictionary]]
+				- [[Implementations of priority queues]]
+				- [[Inserting into binary trees]]
+				- [[Prioritetskøer]]
+				- [[Searching in binary trees]]
+			- **[[130325]]**
+				- [[Balancing a binary tree]]
+				- [[Deleting From Binary Trees]]
+				- [[Times for binary searching]]
 
 %% End Waypoint %%
