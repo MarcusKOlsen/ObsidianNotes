@@ -11,44 +11,27 @@
             "id": "3099b52fe9bf895a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/130325.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/1Images/Pasted image 20250318091648.png"
               },
-              "icon": "lucide-file",
-              "title": "130325"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250318091648"
             }
           },
           {
-            "id": "15904071c96b4292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algoritmer & Datastrukturer"
-            }
-          },
-          {
-            "id": "d52addda8861eae8",
+            "id": "5b6308ded1c72302",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/dictionarySlides_NoOverlays 1.pdf"
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/augmentedBSTSlides_NoOverlays.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "dictionarySlides_NoOverlays 1"
+              "title": "augmentedBSTSlides_NoOverlays"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
+                "file": "Semester 2/1Images/Pasted image 20250318091648.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Algoritmer & Datastrukturer"
+              "title": "Outline of Pasted image 20250318091648"
             }
           }
         ]
@@ -211,52 +194,52 @@
       "timethings:Activate view": false
     }
   },
-  "active": "15904071c96b4292",
+  "active": "170137f3c807b223",
   "lastOpenFiles": [
-    "Semester 2/1Images/Pasted image 20250313104049.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/Balancing a binary tree.md",
-    "Semester 2/1Images/Pasted image 20250313104713.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Searching in binary trees.md",
+    "Semester 2/1Images/Pasted image 20250318091648.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Adding Extra Information to Binary Searching Trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/augmentedBSTSlides_NoOverlays.pdf",
+    "Semester 2/1Images/Pasted image 20250318091642.png",
+    "Semester 2/1Images/Pasted image 20250318091528.png",
+    "Semester 2/1Images/Pasted image 20250318091518.png",
+    "Semester 2/1Images/Pasted image 20250318091512.png",
+    "Semester 2/1Images/Pasted image 20250318091346.png",
+    "Semester 2/1Images/Pasted image 20250318091300.png",
+    "Semester 2/1Images/Pasted image 20250318091235.png",
+    "Semester 2/1Images/Pasted image 20250318091221.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/180325.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/dictionarySlides_NoOverlays 1.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/Balancing a binary tree.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325",
+    "Semester 2/1Images/Pasted image 20250318084051.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/130325.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Rebalancing.md",
+    "Semester 1/(DM549, DS820)/(DM549, DS820).md",
+    "Semester 1/(DM549, DS820)/Lectures/October/301024/Solving Beregningsproblemer.md",
+    "Semester 1/(DM549, DS820)/Lectures/October/301024/Graph Connectivity.md",
+    "Semester 1/(DM549, DS820)/Lectures/November/251124/251124.md",
+    "Semester 1/(DM549, DS820)/Lectures/November/251124/RSAE24.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/Times for binary searching.md",
-    "Semester 2/1Images/Pasted image 20250313104318.png",
-    "Semester 2/1Images/Pasted image 20250313104308.png",
-    "Semester 2/1Images/Pasted image 20250313104228.png",
-    "Semester 2/1Images/Pasted image 20250313104225.png",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Relation Keys.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/Deleting From Binary Trees.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/110325.md",
-    "Semester 2/1Images/Pasted image 20250313104140.png",
-    "Semester 2/1Images/Pasted image 20250313104117.png",
-    "Semester 2/1Images/Pasted image 20250313104055.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Red-Black Binary Trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Inserting into binary trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Binary Searching Trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Dictionary.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/270225/Binary Trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Datastrukturer.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Implementations of priority queues.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/dictionarySlides_NoOverlays.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Searching in binary trees.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9 answers.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Exercise_session_9.pdf",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9",
+    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Relation Keys.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/pqSlides_NoOverlays.pdf",
     "Semester 2/Objektorienteret programmering DM575/Lectures/Lectures.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325",
-    "Semester 2/Databasesystemer DM576/Lectures/March/050325/Lecture7.pdf",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Functional Dependencies.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Trivial Functional Dependencies.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/050325/050325.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/Entity-Relationship Models.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/050325",
-    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Inserting into binary trees.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Binary Searching Trees.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Implementations of priority queues.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Dictionary.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Datastrukturer.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/040325/sortingInLinearTimeSlides.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
-    "Semester 2/1Images/Pasted image 20250311085757.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Prioritetskøer.md",
-    "Semester 1/(DM549, DS820)/Lectures/September/250924/Datastrukturer.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/Febuary.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/270225/270225.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/Lecture8.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325",
-    "Semester 1/(DM549, DS820)/Lectures/November/011124/Conceptual Data Model.md",
-    "Semester 1/(DM549, DS820)/(DM549, DS820).md",
-    "Semester 2/Algoritmer & Datastrukturer/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf"
+    "Semester 2/Databasesystemer DM576/Lectures/March/050325/Lecture7.pdf"
   ]
 }

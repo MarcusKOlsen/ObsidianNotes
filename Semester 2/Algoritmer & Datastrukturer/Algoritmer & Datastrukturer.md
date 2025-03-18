@@ -45,10 +45,14 @@ edited_seconds: 10
 				- [[Implementations of priority queues]]
 				- [[Inserting into binary trees]]
 				- [[Prioritetskøer]]
+				- [[Rebalancing]]
+				- [[Red-Black Binary Trees]]
 				- [[Searching in binary trees]]
 			- **[[130325]]**
 				- [[Balancing a binary tree]]
 				- [[Deleting From Binary Trees]]
 				- [[Times for binary searching]]
+			- **[[180325]]**
+				- [[Adding Extra Information to Binary Searching Trees]]
 
 %% End Waypoint %%
