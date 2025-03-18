@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "🔍",
       "OcFileAdded16",
       "OcGitMergeQueue16",
-      "LiTreePine",
-      "LiDatabase"
+      "LiTreePine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -119,5 +119,6 @@
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Binary Searching Trees.md": "LiTreePine",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Implementations of priority queues.md": "OcGitMergeQueue16",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Inserting into binary trees.md": "OcFileAdded16",
-  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Prioritetskøer.md": "OcGitMergeQueue16"
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Prioritetskøer.md": "OcGitMergeQueue16",
+  "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf": "LiBook"
 }

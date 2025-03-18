@@ -54,5 +54,9 @@ edited_seconds: 10
 				- [[Times for binary searching]]
 			- **[[180325]]**
 				- [[Adding Extra Information to Binary Searching Trees]]
+				- [[Hash Collisions]]
+				- [[Hashing 2]]
+				- [[Hashing-functions]]
+				- [[Solutions To Collisions]]
 
 %% End Waypoint %%

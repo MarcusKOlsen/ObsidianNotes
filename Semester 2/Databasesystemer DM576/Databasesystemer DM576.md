@@ -61,6 +61,13 @@ edited_seconds: 10
 
 			- **[[060325]]**
 				- [[Entity-Relationship Models]]
+			- **[[180325]]**
+				- [[Assertions in SQL vs PostgreSQL]]
+				- [[Assertions]]
+				- [[Functions in PostgreSQL]]
+				- [[Timing of assertions]]
+				- [[Triggers in SQL vs PostGreSQL]]
+				- [[Triggers]]
 
 %% End Waypoint %%
  

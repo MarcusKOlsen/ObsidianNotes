@@ -1,3 +1,19 @@
 {
-  "chime-theme@@callout-style": "callout-outlined"
+  "chime-theme@@callout-style": "callout-outlined",
+  "shimmering-focus@@normal-tab-bar": false,
+  "shimmering-focus@@hide-inline-title-when-more-than-one-tab": true,
+  "shimmering-focus@@hide-vault-switcher-and-settings": false,
+  "shimmering-focus@@show-sidebar-header-buttons": false,
+  "shimmering-focus@@show-new-tab-button": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@hide-properties-in-statusbar": true,
+  "shimmering-focus@@alt-colorschemes": "colorscheme-macos-native",
+  "shimmering-focus@@hidden-sidebars-hidden-statusbar": true,
+  "shimmering-focus@@image-size": 55,
+  "shimmering-focus@@active-line-highlight": "no-active-line-highlight",
+  "shimmering-focus@@tab-width": 425,
+  "shimmering-focus@@notices-at-bottom-right": true,
+  "shimmering-focus@@no-heading-background": false,
+  "shimmering-focus@@heading-letter-spacing": 1,
+  "primary-theme@@ribbon_styles": "ribbon-slideout"
 }
