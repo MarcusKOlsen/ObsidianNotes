@@ -96,7 +96,10 @@
   "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/Intro til kurset.md": "LiPointer",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/040205/Konkret indhold af kurset.md": "LiList",
   "Semester 2/1Images": "LiImage",
-  "Semester 2/Databasesystemer DM576": "LiDatabase",
+  "Semester 2/Databasesystemer DM576": {
+    "iconName": "LiDatabase",
+    "iconColor": "#ff0000"
+  },
   "Semester 2/Databasesystemer DM576/Books": "LiBook",
   "Semester 2/Databasesystemer DM576/Excersizes": "LiBicepsFlexed",
   "Semester 2/Databasesystemer DM576/Lectures": "LiLectern",

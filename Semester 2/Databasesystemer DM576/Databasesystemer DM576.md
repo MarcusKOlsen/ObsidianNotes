@@ -68,6 +68,16 @@ edited_seconds: 10
 				- [[Timing of assertions]]
 				- [[Triggers in SQL vs PostGreSQL]]
 				- [[Triggers]]
+			- **[[200325]]**
+				- [[ACID Transactions]]
+				- [[Database Tuning with indexes]]
+				- [[Indexes]]
+				- [[Materialized views]]
+				- [[Multi-Version Concurrency Control (MVCC)]]
+				- [[Transaction Isolation Levels]]
+				- [[Transactions]]
+				- [[Views]]
+				- [[Virtual Views]]
 
 %% End Waypoint %%
  

@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/180325/Assertions in SQL vs PostgreSQL.md",
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assertions in SQL vs PostgreSQL"
+              "title": "Database Tuning with indexes"
             }
           }
         ]
       },
       {
-        "id": "cf749623c7f95aff",
+        "id": "2d53f9ade42353b4",
         "type": "tabs",
         "children": [
           {
-            "id": "49e9d8f9c21a7f32",
+            "id": "cf84090ddf541017",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf"
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture10"
+              "title": "Lecture11"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/180325/Assertions in SQL vs PostgreSQL.md",
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assertions in SQL vs PostgreSQL"
+              "title": "Outline of Lecture11"
             }
           },
           {
@@ -213,13 +213,25 @@
       "timethings:Activate view": false
     }
   },
-  "active": "79a142a23b74dc65",
+  "active": "cf84090ddf541017",
   "lastOpenFiles": [
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/180325/180325.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Multi-Version Concurrency Control (MVCC).md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Views.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/ACID Transactions.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Virtual Views.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Materialized views.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Assertions in SQL vs PostgreSQL.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Functions in PostgreSQL.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Triggers in SQL vs PostGreSQL.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/180325/180325.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Timing of assertions.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Triggers.md",
     "Semester 2/1Images/Pasted image 20250318124447.png",
@@ -244,22 +256,11 @@
     "Semester 2/1Images/Pasted image 20250318121822.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/dictionarySlides_NoOverlays.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Solutions To Collisions.md",
     "Semester 2/1Images/Pasted image 20250318095013.png",
     "Semester 2/1Images/Pasted image 20250318094956.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/180325.md",
-    "Semester 1/(DM549, DS820)/Lectures/October/031024/Hashing.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Adding Extra Information to Binary Searching Trees.md",
-    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Searching in binary trees.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/augmentedBSTSlides_NoOverlays.pdf",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/dictionarySlides_NoOverlays 1.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/Balancing a binary tree.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/130325.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Rebalancing.md",
-    "Semester 1/(DM549, DS820)/Lectures/November/251124/RSAE24.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/dictionarySlides_NoOverlays.pdf",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Exercise_session_9.pdf"
+    "Semester 1/(DM549, DS820)/Lectures/November/251124/RSAE24.pdf"
   ]
 }
