@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Tuning with indexes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2d53f9ade42353b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf84090ddf541017",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture11"
+              "title": "200325"
             }
           }
         ]
@@ -108,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.50418853759766
+    "width": 368
   },
   "right": {
     "id": "1b54f6b148d45638",
@@ -172,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture11"
+              "title": "Outline of 200325"
             }
           },
           {
@@ -213,13 +195,14 @@
       "timethings:Activate view": false
     }
   },
-  "active": "cf84090ddf541017",
+  "active": "79a142a23b74dc65",
   "lastOpenFiles": [
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/060325/060325.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/180325.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Multi-Version Concurrency Control (MVCC).md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
@@ -237,7 +220,6 @@
     "Semester 2/1Images/Pasted image 20250318124447.png",
     "Semester 2/1Images/Pasted image 20250318124321.png",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Assertions.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/060325.md",
     "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
     "Untitled.canvas",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Functional Dependencies.md",
@@ -248,7 +230,6 @@
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Hashing 2.md",
     "Semester 2/1Images/Pasted image 20250318121815.png",
     "Semester 2/Databasesystemer DM576/Lectures/March/060325/Entity-Relationship Models.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Closure of an attribute.md",
     "Semester 2/1Images/Pasted image 20250318122018.png",
     "Semester 2/1Images/Pasted image 20250318121940.png",
     "Semester 2/1Images/Pasted image 20250318121854.png",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "🔍",
-      "OcFileAdded16",
-      "OcGitMergeQueue16",
-      "LiTreePine"
+      "LiComputer",
+      "LiEarth",
+      "LiAlertCircle",
+      "🏧",
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -123,5 +123,30 @@
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Implementations of priority queues.md": "OcGitMergeQueue16",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Inserting into binary trees.md": "OcFileAdded16",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/Prioritetskøer.md": "OcGitMergeQueue16",
-  "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf": "LiBook"
+  "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf": "LiBook",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md": "👉",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Views.md": "🔎",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Multi-Version Concurrency Control (MVCC).md": "💰",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/ACID Transactions.md": "RaVial",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md": {
+    "iconName": "LiDatabase",
+    "iconColor": "#dfd453"
+  },
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf": {
+    "iconName": "LiBook",
+    "iconColor": "#68b4e3"
+  },
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md": "🏧",
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md": {
+    "iconName": "LiAlertCircle",
+    "iconColor": "#db5939"
+  },
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Materialized views.md": {
+    "iconName": "LiEarth",
+    "iconColor": "#178719"
+  },
+  "Semester 2/Databasesystemer DM576/Lectures/March/200325/Virtual Views.md": {
+    "iconName": "LiComputer",
+    "iconColor": "#6977e2"
+  }
 }
