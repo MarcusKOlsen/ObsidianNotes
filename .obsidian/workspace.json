@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca45e1ea7c521f7",
+        "id": "da7c2e0d955f5004",
         "type": "tabs",
         "children": [
           {
-            "id": "79a142a23b74dc65",
+            "id": "acf8c4844c8d19a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "200325"
+              "title": "New tab"
             }
           }
         ]
@@ -154,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 200325"
+              "title": "Outline"
             }
           },
           {
@@ -195,10 +190,24 @@
       "timethings:Activate view": false
     }
   },
-  "active": "79a142a23b74dc65",
+  "active": "acf8c4844c8d19a5",
   "lastOpenFiles": [
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/060325.md",
+    "Semester 2/AI501/Lectures/March/240325/Wumpus World.md",
+    "Semester 2/AI501/Lectures/March/240325/240325.md",
+    "Semester 2/AI501/Lectures/March/240325/Logical_Agents.pdf",
+    "Semester 2/AI501/Lectures/Febuary/170225/Simple Searches.md",
+    "Semester 2/1Images/Pasted image 20250324103232.png",
+    "Semester 2/AI501/Lectures/March/240325/Knowledge-Based agents.md",
+    "Semester 2/1Images/Pasted image 20250324103035.png",
+    "Semester 2/AI501/Lectures/Febuary/170225/Optimizing local search.md",
+    "Semester 2/AI501/Lectures/Febuary/240225/Games.md",
+    "Semester 2/1Images/Pasted image 20250324102415.png",
+    "Semester 2/1Images/Pasted image 20250324102101.png",
+    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
+    "Semester 2/AI501/Lectures/March/240325",
+    "Semester 2/AI501/Lectures/March",
+    "Semester 2/Databasesystemer DM576/Lectures/March/060325/060325.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/180325.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md",
@@ -220,28 +229,14 @@
     "Semester 2/1Images/Pasted image 20250318124447.png",
     "Semester 2/1Images/Pasted image 20250318124321.png",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325/Assertions.md",
-    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
     "Untitled.canvas",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Functional Dependencies.md",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Relation Keys.md",
     "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Lecture6.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Hashing-functions.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Hash Collisions.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Hashing 2.md",
     "Semester 2/1Images/Pasted image 20250318121815.png",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/Entity-Relationship Models.md",
     "Semester 2/1Images/Pasted image 20250318122018.png",
     "Semester 2/1Images/Pasted image 20250318121940.png",
     "Semester 2/1Images/Pasted image 20250318121854.png",
-    "Semester 2/1Images/Pasted image 20250318121831.png",
-    "Semester 2/1Images/Pasted image 20250318121822.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/dictionarySlides_NoOverlays.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/180325",
-    "Semester 2/1Images/Pasted image 20250318095013.png",
-    "Semester 2/1Images/Pasted image 20250318094956.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/augmentedBSTSlides_NoOverlays.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/130325/dictionarySlides_NoOverlays 1.pdf",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325",
-    "Semester 1/(DM549, DS820)/Lectures/November/251124/RSAE24.pdf"
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/augmentedBSTSlides_NoOverlays.pdf"
   ]
 }
