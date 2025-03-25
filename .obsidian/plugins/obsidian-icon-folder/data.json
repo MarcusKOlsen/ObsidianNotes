@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiComputer",
-      "LiEarth",
-      "LiAlertCircle",
-      "🏧",
-      "LiBook"
+      "🗽",
+      "RaEyeball",
+      "LiCommand",
+      "LiPuzzle",
+      "LiComputer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -149,5 +149,10 @@
     "iconName": "LiComputer",
     "iconColor": "#6977e2"
   },
-  "Semester 2/AI501/Lectures/March/240325/Logical_Agents.pdf": "LiBook"
+  "Semester 2/AI501/Lectures/March/240325/Logical_Agents.pdf": "LiBook",
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Forelæsning 12.pdf": "LiBook",
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Behavioral Patterns.md": "LiPuzzle",
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Command.md": "LiCommand",
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Observer.md": "RaEyeball",
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/State.md": "🗽"
 }

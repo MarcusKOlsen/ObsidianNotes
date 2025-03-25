@@ -9,7 +9,7 @@ edited_seconds: 30
 	- **Excersizes**
 		- **Session 3**
 
-	- **[[Lectures]]**
+	- **Lectures**
 		- **Febuary**
 			- **[[040205]]**
 				- [[Info]]
@@ -17,5 +17,11 @@ edited_seconds: 30
 
 			- **[[270225]]**
 
+		- **March**
+			- **[[250325]]**
+				- [[Behavioral Patterns]]
+				- [[Command]]
+				- [[Observer]]
+				- [[State]]
 
 %% End Waypoint %%
