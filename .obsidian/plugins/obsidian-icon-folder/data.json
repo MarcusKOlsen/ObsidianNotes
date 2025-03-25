@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🗽",
-      "RaEyeball",
-      "LiCommand",
-      "LiPuzzle",
-      "LiComputer"
+      "LiCode",
+      "LiKeyboard",
+      "OcFileSubmodule16",
+      "🦮",
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -154,5 +154,10 @@
   "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Behavioral Patterns.md": "LiPuzzle",
   "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Command.md": "LiCommand",
   "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Observer.md": "RaEyeball",
-  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/State.md": "🗽"
+  "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/State.md": "🗽",
+  "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf": "LiBook",
+  "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md": "🦮",
+  "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md": "OcFileSubmodule16",
+  "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md": "LiKeyboard",
+  "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md": "LiCode"
 }

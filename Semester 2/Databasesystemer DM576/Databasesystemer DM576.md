@@ -78,6 +78,11 @@ edited_seconds: 10
 				- [[Transactions]]
 				- [[Views]]
 				- [[Virtual Views]]
+			- **[[250325]]**
+				- [[Persistently Stored Modules]]
+				- [[PL pqsql code]]
+				- [[Procedures]]
+				- [[Real SQL programming]]
 
 %% End Waypoint %%
  

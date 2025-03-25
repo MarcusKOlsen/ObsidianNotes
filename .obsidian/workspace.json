@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "4af1b04764a80d7b",
+    "id": "e38b7362e6910806",
     "type": "split",
     "children": [
       {
-        "id": "583e1c316f06b2c9",
+        "id": "df9a15ae89c738df",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2a9a74964ee21c",
+            "id": "54c487721f53c8f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/250325.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "250325"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b50aade6e4995a9",
+    "id": "a1c77b68dfb04ed1",
     "type": "split",
     "children": [
       {
-        "id": "e0b987cb36ffcb06",
+        "id": "ee17f312c37be2cd",
         "type": "tabs",
         "children": [
           {
-            "id": "170137f3c807b223",
+            "id": "5fdd144a6ba42325",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "d6b780792c976d43",
+            "id": "0fdc206a3b9c0a53",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "faa379c9df8f597a",
+            "id": "e977e1c0adaafcc3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,40 +69,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "6aec5da19a52139d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Exercise_session_5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise_session_5"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 300
   },
   "right": {
-    "id": "1b54f6b148d45638",
+    "id": "2b99aec584f6f98d",
     "type": "split",
     "children": [
       {
-        "id": "46c77c41ec545d25",
+        "id": "ac84a837c0c7cb02",
         "type": "tabs",
         "children": [
           {
-            "id": "c33b2b32c320f629",
+            "id": "d6c91c2b4cbdeae4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Måle tidsforbrug"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "9f80319d89bb62eb",
+            "id": "3d8f827e66a44efb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Måle tidsforbrug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Måle tidsforbrug"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0e5a73dc815a2efc",
+            "id": "25da1888800f8a09",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,36 +131,24 @@
             }
           },
           {
-            "id": "532da91e92de8930",
+            "id": "fa735d73367a14c5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/250325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 250325"
-            }
-          },
-          {
-            "id": "d07dfe3d4a05a8ca",
-            "type": "leaf",
-            "state": {
-              "type": "example-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Most edited files"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,57 +161,16 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false,
-      "timethings:Activate view": false
+      "timethings:Activate view": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5f2a9a74964ee21c",
+  "active": "54c487721f53c8f2",
   "lastOpenFiles": [
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Command.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Forelæsning 12.pdf",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Behavioral Patterns.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/250325.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/State.md",
-    "Semester 2/1Images/Pasted image 20250325113159.png",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325/Observer.md",
-    "Semester 2/1Images/Pasted image 20250325112929.png",
-    "Semester 2/1Images/Pasted image 20250325112416.png",
-    "Semester 2/AI501/Lectures/March/240325/240325.md",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March/250325",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/March",
-    "Semester 2/Objektorienteret programmering DM575/Lectures/Lectures.md",
-    "Untitled.canvas",
-    "Semester 2/AI501/Lectures/March/240325/Wumpus World.md",
-    "Semester 2/AI501/Lectures/March/240325/Logical_Agents.pdf",
-    "Semester 2/AI501/Lectures/Febuary/170225/Simple Searches.md",
-    "Semester 2/1Images/Pasted image 20250324103232.png",
-    "Semester 2/AI501/Lectures/March/240325/Knowledge-Based agents.md",
-    "Semester 2/1Images/Pasted image 20250324103035.png",
-    "Semester 2/AI501/Lectures/Febuary/170225/Optimizing local search.md",
-    "Semester 2/AI501/Lectures/Febuary/240225/Games.md",
-    "Semester 2/1Images/Pasted image 20250324102415.png",
-    "Semester 2/1Images/Pasted image 20250324102101.png",
-    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
-    "Semester 2/AI501/Lectures/March/240325",
-    "Semester 2/AI501/Lectures/March",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/060325.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/180325/180325.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Indexes.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Database Tuning with indexes.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Multi-Version Concurrency Control (MVCC).md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Views.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/ACID Transactions.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Virtual Views.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Materialized views.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325",
-    "Semester 2/Databasesystemer DM576/Lectures/March/180325/Lecture10.pdf",
-    "Semester 2/1Images/Pasted image 20250318124447.png",
-    "Semester 2/1Images/Pasted image 20250318124321.png",
-    "Semester 2/Databasesystemer DM576/Lectures/Febuary/250225/Lecture6.pdf",
-    "Semester 2/1Images/Pasted image 20250318121815.png"
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Negation.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Operators.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/020924.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical BI-Implication.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Lecture 1 (preliminary).pdf"
   ]
 }
