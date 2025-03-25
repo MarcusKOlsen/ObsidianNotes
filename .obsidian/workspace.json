@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da7c2e0d955f5004",
+        "id": "583e1c316f06b2c9",
         "type": "tabs",
         "children": [
           {
-            "id": "acf8c4844c8d19a5",
+            "id": "5f2a9a74964ee21c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/AI501/Lectures/March/240325/240325.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "240325"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semester 2/AI501/Lectures/March/240325/240325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 240325"
             }
           },
           {
@@ -190,7 +195,7 @@
       "timethings:Activate view": false
     }
   },
-  "active": "acf8c4844c8d19a5",
+  "active": "5f2a9a74964ee21c",
   "lastOpenFiles": [
     "Semester 2/AI501/Lectures/March/240325/Wumpus World.md",
     "Semester 2/AI501/Lectures/March/240325/240325.md",
