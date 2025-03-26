@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-03-25T12:43:44.336+01:00
-edited_seconds: 220
+updated_at: 2025-03-26T10:19:21.247+01:00
+edited_seconds: 230
 ---
 ## Definition
 Procedures essentially work as functions from conventional programming languages.
@@ -28,7 +28,7 @@ CREATE PROCEDURE ChinoMenu (
 ) AS $$
 INSERT INTO Sells
 VALUES('C.Ch.', b, p);
-$$ LANGUAGE plpsql
+$$ LANGUAGE plpgsql
 ```
 <center> This procedure takes two arguments, b and p, and adds a tuple with the bar as cafe chino, and the beer as b and price as p. </center>
 

@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-03-25T12:59:06.691+01:00
-edited_seconds: 940
+updated_at: 2025-03-26T10:35:54.090+01:00
+edited_seconds: 950
 ---
 ## Kinds of PL/pqsql statements
 - `RETURN <expression>`
@@ -31,7 +31,7 @@ edited_seconds: 940
 		- `FOR <name> IN <start> TO <end> LOOP <statements> END LOOP`
 			- Like  a traditional for loop
 ## Queries
-General SELECT-FROM-WHERE queries are **not** permitted in PL/pqsql
+General SELECT-FROM-WHERE queries are **not** permitted in PL/pgsql
 There are three ways to replicate the effect however:
 - Queries producing one value can be the expression in an assignment of a variable
 - Single-row SELECT ... INTO

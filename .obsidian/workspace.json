@@ -4,17 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "df9a15ae89c738df",
+        "id": "e02e199d311b223c",
         "type": "tabs",
         "children": [
           {
-            "id": "54c487721f53c8f2",
+            "id": "30ba233b08669b32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture12"
+            }
+          },
+          {
+            "id": "44d4f294a23dd38a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture12"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ff2402a032a268e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5151ad7ed292df02",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Exercise_session_11"
             }
           }
         ]
@@ -136,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lecture12"
             }
           }
         ]
@@ -165,8 +199,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "54c487721f53c8f2",
+  "active": "44d4f294a23dd38a",
   "lastOpenFiles": [
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Answers.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Session 11.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9 answers.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Session 5 Answers.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9.md",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Negation.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Operators.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/020924.md",
