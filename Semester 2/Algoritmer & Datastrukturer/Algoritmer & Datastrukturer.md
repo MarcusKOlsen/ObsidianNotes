@@ -58,5 +58,9 @@ edited_seconds: 10
 				- [[Hashing 2]]
 				- [[Hashing-functions]]
 				- [[Solutions To Collisions]]
+			- **[[270325]]**
+				- [[Divide and conquer]]
+				- [[Master Theorem]]
+				- [[Recursive algorithms]]
 
 %% End Waypoint %%

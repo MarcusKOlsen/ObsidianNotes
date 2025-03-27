@@ -11,43 +11,14 @@
             "id": "30ba233b08669b32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf"
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture12"
-            }
-          },
-          {
-            "id": "44d4f294a23dd38a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture12"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1ff2402a032a268e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5151ad7ed292df02",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise_session_11"
+              "icon": "lucide-file",
+              "title": "270325"
             }
           }
         ]
@@ -169,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
+                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture12"
+              "title": "Outline of 270325"
             }
           }
         ]
@@ -199,14 +170,30 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "44d4f294a23dd38a",
+  "active": "30ba233b08669b32",
   "lastOpenFiles": [
+    "Semester 2/1Images/Pasted image 20250327103936.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md",
+    "Semester 2/1Images/Pasted image 20250327104426.png",
+    "Semester 2/1Images/Pasted image 20250327104220.png",
+    "Semester 2/1Images/Pasted image 20250327104154.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf",
+    "Semester 2/1Images/Pasted image 20250327104143.png",
+    "Semester 2/1Images/Pasted image 20250327104107.png",
+    "Semester 2/1Images/Pasted image 20250327104058.png",
+    "Semester 2/1Images/Pasted image 20250327104050.png",
+    "Semester 2/1Images/Pasted image 20250327103947.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
+    "Semester 2/1Images/Pasted image 20250327101926.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
