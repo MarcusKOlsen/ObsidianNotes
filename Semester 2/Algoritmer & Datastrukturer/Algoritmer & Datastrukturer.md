@@ -61,6 +61,7 @@ edited_seconds: 10
 			- **[[270325]]**
 				- [[Divide and conquer]]
 				- [[Master Theorem]]
+				- [[Matrix-multiplication with Strassens algorithm]]
 				- [[Recursive algorithms]]
 
 %% End Waypoint %%

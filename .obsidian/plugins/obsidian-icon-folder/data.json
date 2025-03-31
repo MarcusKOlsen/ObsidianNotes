@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCode",
-      "LiKeyboard",
-      "OcFileSubmodule16",
-      "🦮",
-      "LiBook"
+      "🕶",
+      "OcQuestion16",
+      "LiDice",
+      "LiBook",
+      "LiBan"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -160,5 +160,10 @@
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md": "OcFileSubmodule16",
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md": "LiKeyboard",
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md": "LiCode",
-  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf": "LiBook"
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf": "LiBook",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/strassenSlides_NoOverlays.pdf": "LiBook",
+  "Semester 2/AI501/Lectures/March/310325/Quantifying-Uncertainty.pdf": "LiBook",
+  "Semester 2/AI501/Lectures/March/310325/Basic Probability Notation.md": "LiDice",
+  "Semester 2/AI501/Lectures/March/310325/Acting under uncertainty.md": "OcQuestion16",
+  "Semester 2/AI501/Lectures/March/310325/Decision-theoretic agent.md": "🕶"
 }

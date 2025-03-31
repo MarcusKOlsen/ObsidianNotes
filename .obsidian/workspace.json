@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e02e199d311b223c",
+        "id": "a027ffe403291d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "30ba233b08669b32",
+            "id": "4043af37a3d878c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "270325"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 270325"
+              "title": "Outline"
             }
           }
         ]
@@ -170,22 +165,35 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "30ba233b08669b32",
+  "active": "4043af37a3d878c0",
   "lastOpenFiles": [
-    "Semester 2/1Images/Pasted image 20250327103936.png",
+    "Untitled.canvas",
+    "Semester 2/1Images/Pasted image 20250331113427.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Adding Extra Information to Binary Searching Trees.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/180325.md",
+    "Semester 2/Algoritmer & Datastrukturer/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Semester 2/AI501/Lectures/March/310325/310325.md",
+    "Semester 2/AI501/Lectures/March/310325/Basic Probability Notation.md",
+    "Semester 2/1Images/Pasted image 20250331113753.png",
+    "Semester 2/AI501/Lectures/March/310325/Quantifying-Uncertainty.pdf",
+    "Semester 2/1Images/Pasted image 20250331113744.png",
+    "Semester 2/1Images/Pasted image 20250331113735.png",
+    "Semester 2/1Images/Pasted image 20250331113653.png",
+    "Semester 2/1Images/Pasted image 20250331113622.png",
+    "Semester 2/1Images/Pasted image 20250331113602.png",
+    "Semester 2/AI501/Lectures/March/310325/Acting under uncertainty.md",
+    "Semester 2/AI501/Lectures/March/310325/Decision-theoretic agent.md",
+    "Semester 2/AI501/AI501.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Matrix-multiplication with Strassens algorithm.md",
+    "Semester 2/AI501/Lectures/March/310325",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/strassenSlides_NoOverlays.pdf",
+    "Semester 2/1Images/Pasted image 20250327103936.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md",
     "Semester 2/1Images/Pasted image 20250327104426.png",
     "Semester 2/1Images/Pasted image 20250327104220.png",
-    "Semester 2/1Images/Pasted image 20250327104154.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf",
-    "Semester 2/1Images/Pasted image 20250327104143.png",
-    "Semester 2/1Images/Pasted image 20250327104107.png",
-    "Semester 2/1Images/Pasted image 20250327104058.png",
-    "Semester 2/1Images/Pasted image 20250327104050.png",
-    "Semester 2/1Images/Pasted image 20250327103947.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
-    "Semester 2/1Images/Pasted image 20250327101926.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf",
@@ -204,9 +212,6 @@
     "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9.md",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 11",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Negation.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Operators.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/020924.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical BI-Implication.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Lecture 1 (preliminary).pdf"
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Operators.md"
   ]
 }
