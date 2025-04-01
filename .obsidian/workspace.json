@@ -11,10 +11,14 @@
             "id": "4043af37a3d878c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/April/010425/010425.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "010425"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Semester 2/Databasesystemer DM576/Lectures/April/010425/010425.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 010425"
             }
           }
         ]
@@ -165,8 +170,20 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4043af37a3d878c0",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
+    "Semester 2/Databasesystemer DM576/Lectures/April/010425/Data Storage.md",
+    "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/250325.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
+    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md",
+    "Semester 2/Databasesystemer DM576/Lectures/April/010425/010425.md",
+    "Semester 1/(DM549, DS820)/Lectures/September/250924/Random Access.md",
+    "Semester 2/Databasesystemer DM576/Lectures/April/April.md",
+    "Semester 2/Databasesystemer DM576/Lectures/April/010425",
+    "Semester 2/Databasesystemer DM576/Lectures/April",
     "Untitled.canvas",
     "Semester 2/1Images/Pasted image 20250331113427.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Adding Extra Information to Binary Searching Trees.md",
@@ -195,23 +212,12 @@
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Lecture12.pdf",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Exercise_session_11.pdf",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Lecture11.pdf",
     "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
     "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Answers.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Session 11.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9 answers.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 5/Session 5 Answers.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 9/Session 9.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 11",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Negation.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/September/020924/Logical Operators.md"
+    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Session 11.md"
   ]
 }
