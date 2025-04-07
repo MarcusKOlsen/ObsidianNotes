@@ -1,0 +1,7 @@
+- Ved hashing kan der godt ske kollisioner, som betyder at to forskellige heltal ender i samme index. De kan ikke begge ligge på den samme index
+	- ![[Pasted image 20241003143343.png]]
+	- ![[Pasted image 20241003143718.png]]
+	- Hvis antal elementer er større end størrelsen af arrayene er det naturligvis garanteret at der kommer mindst én kollision. Antal garanteret kollisioner er: $n-k| if: n > k$
+- En mulig løsning er at lave en liste i det index, af alle kollisioner, dette hedder **chaining**
+	- Dette øger desværre dog O() tiden, da den ikke længere er direkte [[Sekventiel tilgang]], men også skal ind i listerne inde i indexen. Nu er tiden $O(|A|)$
+	- ![[Pasted image 20241003143437.png]]

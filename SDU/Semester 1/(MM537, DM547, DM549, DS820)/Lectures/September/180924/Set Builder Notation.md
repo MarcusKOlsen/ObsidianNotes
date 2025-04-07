@@ -1,0 +1,3 @@
+- Set builder notation is used to describe a set in a proper way
+	- F.eks. if a set had infinite numbers of a specific kind, a set builders notation can describe those numbers in a formula that a simple expression of the set cannot
+- $\{ n \in \mathbb{z} | \exists k \in \mathbb{n}: n=2k \}$
