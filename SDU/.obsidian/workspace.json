@@ -11,14 +11,12 @@
             "id": "4043af37a3d878c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/Recursive algorithms for matrix multiplication.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/1Images/Pasted image 20250403105735.png"
               },
-              "icon": "lucide-file",
-              "title": "Recursive algorithms for matrix multiplication"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250403105735"
             }
           }
         ]
@@ -140,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/Recursive algorithms for matrix multiplication.md",
+                "file": "Semester 2/1Images/Pasted image 20250403105735.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recursive algorithms for matrix multiplication"
+              "title": "Outline of Pasted image 20250403105735"
             }
           }
         ]
@@ -170,17 +168,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4043af37a3d878c0",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
-    "Pasted image 20250403110031.png",
-    "Pasted image 20250403110025.png",
-    "Pasted image 20250403110019.png",
-    "Pasted image 20250403105930.png",
-    "Pasted image 20250403105753.png",
-    "Pasted image 20250403105745.png",
-    "Pasted image 20250403105735.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/030425.md",
+    "Semester 2/AI501/Lectures/March/310325/Decision-theoretic agent.md",
+    "Semester 2/AI501/Lectures/March/310325/Basic Probability Notation.md",
+    "Semester 2/AI501/Lectures/April/070425/070425.md",
+    "Semester 2/AI501/Lectures/April/070425/07_Quantifying_Uncertainty.pdf",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/Recursive algorithms for matrix multiplication.md",
+    "Semester 2/AI501/Lectures/April/070425",
+    "Semester 2/AI501/Lectures/April",
+    "Semester 2/1Images/Pasted image 20250403110031.png",
+    "Semester 2/1Images/Pasted image 20250403110025.png",
+    "Semester 2/1Images/Pasted image 20250403110019.png",
+    "Semester 2/1Images/Pasted image 20250403105930.png",
+    "Semester 2/1Images/Pasted image 20250403105753.png",
+    "Semester 2/1Images/Pasted image 20250403105745.png",
+    "Semester 2/1Images/Pasted image 20250403105735.png",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/030425.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/strassenSlides_NoOverlays.pdf",
     "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425",
@@ -202,22 +206,15 @@
     "Semester 2/1Images/Pasted image 20250331113427.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/Adding Extra Information to Binary Searching Trees.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/180325/180325.md",
-    "Semester 2/Algoritmer & Datastrukturer/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
     "Semester 2/AI501/Lectures/March/310325/310325.md",
-    "Semester 2/AI501/Lectures/March/310325/Basic Probability Notation.md",
     "Semester 2/1Images/Pasted image 20250331113753.png",
-    "Semester 2/AI501/Lectures/March/310325/Quantifying-Uncertainty.pdf",
     "Semester 2/1Images/Pasted image 20250331113744.png",
-    "Semester 2/1Images/Pasted image 20250331113735.png",
     "Semester 2/AI501/Lectures/March/310325/Acting under uncertainty.md",
-    "Semester 2/AI501/Lectures/March/310325/Decision-theoretic agent.md",
     "Semester 2/AI501/AI501.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Matrix-multiplication with Strassens algorithm.md",
-    "Semester 2/AI501/Lectures/March/310325",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md"
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md"
   ]
 }
