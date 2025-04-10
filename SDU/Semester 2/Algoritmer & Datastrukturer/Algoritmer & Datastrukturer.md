@@ -10,6 +10,8 @@ edited_seconds: 10
 		- **April**
 			- **[[030425]]**
 				- [[Recursive algorithms for matrix multiplication]]
+			- **[[100425]]**
+				- [[Dynamic Programming]]
 		- **[[Febuary]]**
 			- **[[040205]]**
 				- [[Intro til kurset]]

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBot",
       "🕶",
       "OcQuestion16",
       "LiDice",
-      "LiBook",
-      "LiBan"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -167,5 +167,7 @@
   "Semester 2/AI501/Lectures/March/310325/Acting under uncertainty.md": "OcQuestion16",
   "Semester 2/AI501/Lectures/March/310325/Decision-theoretic agent.md": "🕶",
   "Semester 2/Algoritmer & Datastrukturer/Lectures/April/030425/strassenSlides_NoOverlays.pdf": "LiBook",
-  "Semester 2/AI501/Lectures/April/070425/07_Quantifying_Uncertainty.pdf": "LiBook"
+  "Semester 2/AI501/Lectures/April/070425/07_Quantifying_Uncertainty.pdf": "LiBook",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/April/100425/dynamicProgrammingSlides.pdf": "LiBook",
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/April/100425/dynamicProgrammingSlides2.pdf": "LiBook"
 }
