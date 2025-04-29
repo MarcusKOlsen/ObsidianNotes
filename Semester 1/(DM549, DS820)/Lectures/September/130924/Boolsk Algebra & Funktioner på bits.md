@@ -1,0 +1,7 @@
+- Boolsk Algebra
+	- Boolsk Algebra er algebra(udregninger med reelle tal), der udregner med to værdier. Dvs., 1 og 0
+- Gates
+	- Gates er i essens funktioner på bits
+		- Gates tager værdier fra bits og ændrer dem til en ny værdi
+		- Eksempler:
+			- [[Gates Intro]]

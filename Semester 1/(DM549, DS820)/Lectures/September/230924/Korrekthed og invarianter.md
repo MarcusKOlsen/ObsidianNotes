@@ -1,0 +1,6 @@
+- Til at bevise korrekthed af en iterativ eller rekursiv algoritme kan man bruge en **Invariant**
+	- En invariant er en værdi som kører iterativt og tjekker via induction([[Inductive Proof]])]]) om det passer
+	- ![[Pasted image 20240923110903.png]]
+	- Eksempel:
+		- ![[Pasted image 20240923110948.png]]
+- ![[Pasted image 20240923111442.png]]
