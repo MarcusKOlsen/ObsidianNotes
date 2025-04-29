@@ -12,6 +12,8 @@ edited_seconds: 10
 				- [[Recursive algorithms for matrix multiplication]]
 			- **[[100425]]**
 				- [[Dynamic Programming]]
+			- **[[290425]]**
+				- [[Disjoint Sets]]
 		- **[[Febuary]]**
 			- **[[040205]]**
 				- [[Intro til kurset]]
