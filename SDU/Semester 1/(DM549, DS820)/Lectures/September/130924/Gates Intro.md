@@ -1,7 +1,0 @@
-[[Gates Canvas.canvas|Gates Canvas]]
-## [[NOT-gate]]
-## [[AND-gate]]
-## [[OR-gate]]
-## [[XOR-gate]]
-## [[NOR-gate]]
-## [[NAND-gate]]

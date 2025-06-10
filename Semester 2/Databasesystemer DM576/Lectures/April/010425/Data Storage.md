@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-04-01T12:49:42.369+02:00
-edited_seconds: 560
+updated_at: 2025-04-02T11:27:32.528+02:00
+edited_seconds: 680
 ---
 ## Definition
 Databases are usually too large to keep in a cache or the RAM, therefore secondary storage is needed
@@ -12,6 +12,17 @@ Large amounts of data that are infrequently used are stored in **tertiary storag
 ([[Random Access]])
 
 ## Accelerating Access
+There are different ways to increase access speeds:
+- Duplicate disks
+	- Disks with the same information in different blocks
+	- Pros 
+		- Increases access speed and creates backups for safety
+	- Cons
+		- Slower writing speed, one duplicate would double the writing time
+		- Redundant space, a lot of wasted hard disks
+- Reordering requests to minimize movement of the disk
+	- Fast. Kachow
+
 
 ## Memory Hierarchy
 1. Cache
