@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "64fb9bdc8687f36f",
+        "id": "d0ffe48d7bfe36d9",
         "type": "tabs",
         "children": [
           {
-            "id": "df9b69a1d4cabfb1",
+            "id": "03b97b3964cbc785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05"
+            }
+          },
+          {
+            "id": "419cb50be5a46757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Executable Programs"
+            }
+          },
+          {
+            "id": "5c20e30036f91857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembler Directives"
+            }
+          },
+          {
+            "id": "a6373d11c1c14f9b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,23 +60,8 @@
               "icon": "lucide-file-text",
               "title": "slides"
             }
-          },
-          {
-            "id": "d0fce275bd2e19d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Assembly Info"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Assembly Info"
+              "title": "Outline of 05"
             }
           }
         ]
@@ -185,21 +212,32 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d0fce275bd2e19d4",
+  "active": "03b97b3964cbc785",
   "lastOpenFiles": [
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md",
+    "Semester 3/1Images/Pasted image 20250905133344.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
-    "Semester 3/1Images/Pasted image 20250905130137.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
+    "Semester 3/1Images/Pasted image 20250905133208.png",
+    "Semester 3/1Images/Pasted image 20250905133139.png",
+    "Semester 3/1Images/Pasted image 20250905133128.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Data.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Instructions.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Operand Types.md",
+    "Semester 3/1Images/Pasted image 20250905132256.png",
+    "Semester 3/1Images/Pasted image 20250905132229.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Korrekthed og kvalitet af algoritmer.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Algoritmeanalyse.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/110225.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/110325.md",
+    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
+    "Semester 3/1Images/Pasted image 20250905130137.png",
     "Semester 3/1Images/Pasted image 20250905125806.png",
     "Semester 3/1Images/Pasted image 20250905125755.png",
     "Semester 3/1Images/Pasted image 20250905125528.png",
-    "Semester 3/1Images/Pasted image 20250905122600.png",
-    "Semester 3/1Images/Pasted image 20250905122654.png",
-    "Semester 3/1Images/Pasted image 20250905122646.png",
-    "Semester 3/1Images/Pasted image 20250905122628.png",
-    "Semester 3/1Images/Pasted image 20250905122622.png",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf",
@@ -208,7 +246,6 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Row Echelon Form.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
-    "Semester 3/1Images/Pasted image 20250905114017.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Gaussian Elimination.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Augmented Matrices.md",
@@ -222,16 +259,6 @@
     "Semester 2/AI501/1ExamPrep/AI/Exam Info.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/050325/050325.md",
     "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/060325/Entity-Relationship Models.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/200325.md",
-    "Semester 1/(DM549, DS820)/Lectures/November/011124/Conceptual Data Model.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/(MM537, DM547, DM549, DS820).md",
-    "Semester 2/AI501/Lectures/March/240325/240325.md",
-    "Semester 2/AI501/Lectures/Febuary/030225/Weak vs Strong ai.md",
-    "Semester 2/AI501/Lectures/March/240325/Knowledge-Based agents.md",
-    "Semester 2/AI501/Lectures/March/240325/Wumpus World.md",
-    "Semester 2/AI501/Lectures/Febuary/170225/Simple Searches.md",
-    "Homepage.md",
     "Untitled.canvas"
   ]
 }

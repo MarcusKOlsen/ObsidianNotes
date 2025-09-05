@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCode",
-      "LiKeyboard",
-      "OcFileSubmodule16",
-      "🦮",
-      "LiBook"
+      "LiBriefcase",
+      "LiAxe",
+      "LiImage",
+      "LiLectern",
+      "LiInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -160,5 +160,20 @@
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md": "OcFileSubmodule16",
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md": "LiKeyboard",
   "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md": "LiCode",
-  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf": "LiBook"
+  "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/divideAndConquerSlides_NoOverlays.pdf": "LiBook",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md": "📠",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Data.md": "LiDatabase",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Instructions.md": "🧑‍🏫",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Operand Types.md": "LiEqual",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf": "LiBook",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering": "LiComputer",
+  "Semester 3/AI511 Linear Algebra with Applications": "OcNumber16",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/Basic Arithmetic.md": "LiPlus",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/Course Intro.md": "LiInfo",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf": "LiBook",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures": "LiLectern",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures": "LiLectern",
+  "Semester 3/1Images": "LiImage",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md": "LiAxe",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md": "LiBriefcase"
 }

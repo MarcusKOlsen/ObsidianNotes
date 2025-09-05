@@ -10,6 +10,11 @@ edited_seconds: 20
 				- [[Basic Arithmetic]]
 				- [[Course Intro]]
 			- **[[05]]**
+				- [[Assembler Directives]]
 				- [[Basic Assembly Info]]
+				- [[Data]]
+				- [[Executable Programs]]
+				- [[Instructions]]
+				- [[Operand Types]]
 
 %% End Waypoint %%
