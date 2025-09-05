@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-09-05T10:32:28.964+02:00
-edited_seconds: 70
+updated_at: 2025-09-05T11:41:30.693+02:00
+edited_seconds: 80
 ---
 ## Definition
 ![[Pasted image 20250905103213.png]]
@@ -9,7 +9,7 @@ edited_seconds: 70
 ![[Pasted image 20250905103201.png]]
 
 ## Reduced Row Echelon Form
-### Definition
+### Definition_
 ![[Pasted image 20250905103253.png]]
 ### Example
 ![[Pasted image 20250905103305.png]]

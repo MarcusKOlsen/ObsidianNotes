@@ -15,6 +15,7 @@ edited_seconds: 40
 				- [[Augmented Matrices]]
 				- [[Elementary Row Operations]]
 				- [[Gaussian Elimination]]
+				- [[Matrix addition & scalar multiplication]]
 				- [[Matrix Notation & Terminology]]
 				- [[Row Echelon Form]]
 

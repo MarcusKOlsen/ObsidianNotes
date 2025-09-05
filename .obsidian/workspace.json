@@ -13,28 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Notation & Terminology"
+              "title": "05"
             }
           },
           {
-            "id": "8a5e3795bca60521",
+            "id": "cbcb1e47f411c105",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Semester 3/1Images/Pasted image 20250905105105.png"
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905105105"
+              "icon": "lucide-file-text",
+              "title": "slides 02 - systems of linear equations (cont.), matrices and matrix operations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 3/1Images/Pasted image 20250905105105.png",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250905105105"
+              "title": "Backlinks for 05"
             }
           },
           {
@@ -154,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/1Images/Pasted image 20250905105105.png",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250905105105"
+              "title": "Outline of 05"
             }
           }
         ]
@@ -185,16 +184,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5fdd144a6ba42325",
+  "active": "cc21ff7774fbff8d",
   "lastOpenFiles": [
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Row Echelon Form.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
+    "Semester 3/1Images/Pasted image 20250905114017.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
+    "Semester 3/1Images/Pasted image 20250905114005.png",
+    "Semester 3/1Images/Pasted image 20250905105105.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
     "Semester 3/1Images/Pasted image 20250905113726.png",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Row Echelon Form.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Gaussian Elimination.md",
     "Semester 3/1Images/Pasted image 20250905105148.png",
-    "Semester 3/1Images/Pasted image 20250905105105.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Augmented Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/1Images/Pasted image 20250905103138.png",
@@ -204,8 +206,6 @@
     "Semester 3/1Images/Pasted image 20250905103201.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Elementary Row Operations.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Solving.md",
-    "Semester 3/1Images/Pasted image 20250905102746.png",
-    "Semester 3/1Images/Pasted image 20250905102632.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/11_Planning.pdf",
@@ -231,7 +231,6 @@
     "Untitled.canvas",
     "Semester 2/Objektorienteret programmering DM575/Objektorienteret programmering DM575.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md"
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md"
   ]
 }
