@@ -4,8 +4,6 @@ edited_seconds: 40
 ---
 %% Begin Waypoint %%
 - **[[AI511 Linear Algebra with Applications]]**
-	- **Books**
-	- **Excersizes**
 	- **Lectures**
 		- **September**
 			- **[[01]]**
@@ -13,5 +11,11 @@ edited_seconds: 40
 				- [[Systems of linear equations]]
 				- [[Teachers]]
 				- [[Triangular form]]
+			- **[[05]]**
+				- [[Augmented Matrices]]
+				- [[Elementary Row Operations]]
+				- [[Gaussian Elimination]]
+				- [[Matrix Notation & Terminology]]
+				- [[Row Echelon Form]]
 
 %% End Waypoint %%

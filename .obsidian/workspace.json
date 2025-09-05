@@ -4,106 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0559b72e7b769a4e",
+        "id": "64fb9bdc8687f36f",
         "type": "tabs",
         "children": [
           {
-            "id": "d5157ede1dafb9f0",
+            "id": "cc21ff7774fbff8d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/AI501/Books/Artificial Intelligence A Modern Approach Global Edition.pdf"
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Artificial Intelligence A Modern Approach Global Edition"
+              "icon": "lucide-file",
+              "title": "Matrix Notation & Terminology"
             }
           },
           {
-            "id": "9ec06aa70b68e31b",
+            "id": "8a5e3795bca60521",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/01_Intro_to AI.pdf"
+                "file": "Semester 3/1Images/Pasted image 20250905105105.png"
               },
-              "icon": "lucide-file-text",
-              "title": "01_Intro_to AI"
-            }
-          },
-          {
-            "id": "880989560413326e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/02_Intelligent Agents.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "02_Intelligent Agents"
-            }
-          },
-          {
-            "id": "9d0dffa942fd8a53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03_Simple_Search"
-            }
-          },
-          {
-            "id": "fb3e5a834333d5bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/06_CSP.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "06_CSP"
-            }
-          },
-          {
-            "id": "7895e4c9be063666",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/08_First_order_logic.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "08_First_order_logic"
-            }
-          },
-          {
-            "id": "832be0a650b6cde5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/11_Planning.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "11_Planning"
-            }
-          },
-          {
-            "id": "cc2cfc9a2f5fc35d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03_Simple_Search"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250905105105"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/AI501/Books/Artificial Intelligence A Modern Approach Global Edition.pdf",
+                "file": "Semester 3/1Images/Pasted image 20250905105105.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Artificial Intelligence A Modern Approach Global Edition"
+              "title": "Backlinks for Pasted image 20250905105105"
             }
           },
           {
@@ -223,23 +154,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/AI501/Books/Artificial Intelligence A Modern Approach Global Edition.pdf",
+                "file": "Semester 3/1Images/Pasted image 20250905105105.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Artificial Intelligence A Modern Approach Global Edition"
+              "title": "Outline of Pasted image 20250905105105"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -252,21 +185,37 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d5157ede1dafb9f0",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
+    "Semester 3/1Images/Pasted image 20250905113726.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Row Echelon Form.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Gaussian Elimination.md",
+    "Semester 3/1Images/Pasted image 20250905105148.png",
+    "Semester 3/1Images/Pasted image 20250905105105.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Augmented Matrices.md",
+    "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
+    "Semester 3/1Images/Pasted image 20250905103138.png",
+    "Semester 3/1Images/Pasted image 20250905103305.png",
+    "Semester 3/1Images/Pasted image 20250905103253.png",
+    "Semester 3/1Images/Pasted image 20250905103213.png",
+    "Semester 3/1Images/Pasted image 20250905103201.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Elementary Row Operations.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Solving.md",
+    "Semester 3/1Images/Pasted image 20250905102746.png",
+    "Semester 3/1Images/Pasted image 20250905102632.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/02_Intelligent Agents.pdf",
-    "Semester 2/AI501/Books/Artificial Intelligence A Modern Approach Global Edition.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/12_Quantifying_Uncertainty.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/11_Planning.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/08_First_order_logic.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/07_Logical_Agents.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/06_CSP.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/06a_MiniZinc.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/05_Adversarial_Search_And_Games.pdf",
+    "Semester 2/AI501/1ExamPrep/AI/PDFS/02_Intelligent Agents.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/01_Intro_to AI.pdf",
+    "Semester 2/AI501/Books/Artificial Intelligence A Modern Approach Global Edition.pdf",
+    "Semester 2/AI501/1ExamPrep/AI/PDFS/12_Quantifying_Uncertainty.pdf",
     "Semester 2/AI501/1ExamPrep/AI/Exam Info.md",
-    "Semester 2/1Images/Pasted image 20250606192256.png",
     "Semester 2/Databasesystemer DM576/Lectures/March/050325/050325.md",
     "Semester 2/Databasesystemer DM576/Databasesystemer DM576.md",
     "Semester 2/Databasesystemer DM576/Lectures/March/060325/Entity-Relationship Models.md",
@@ -282,24 +231,7 @@
     "Untitled.canvas",
     "Semester 2/Objektorienteret programmering DM575/Objektorienteret programmering DM575.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/270325.md",
-    "Semester 2/1Images/Pasted image 20250327103936.png",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Master Theorem.md",
-    "Semester 2/1Images/Pasted image 20250327104426.png",
-    "Semester 2/1Images/Pasted image 20250327104220.png",
-    "Semester 2/1Images/Pasted image 20250327104154.png",
-    "Semester 2/1Images/Pasted image 20250327104143.png",
-    "Semester 2/1Images/Pasted image 20250327104107.png",
-    "Semester 2/1Images/Pasted image 20250327104058.png",
-    "Semester 2/1Images/Pasted image 20250327104050.png",
-    "Semester 2/1Images/Pasted image 20250327103947.png",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Divide and conquer.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Persistently Stored Modules.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/PL pqsql code.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Real SQL programming.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/250325/Procedures.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transactions.md",
-    "Semester 2/Databasesystemer DM576/Lectures/March/200325/Transaction Isolation Levels.md",
-    "Semester 2/Databasesystemer DM576/Excersizes/Session 11/Answers.md"
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md"
   ]
 }

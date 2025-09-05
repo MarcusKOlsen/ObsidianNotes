@@ -4,9 +4,6 @@ edited_seconds: 20
 ---
 %% Begin Waypoint %%
 - **[[DM458 Computerarkitektur og systemprogrammering]]**
-	- **Books**
-
-	- **Excersizes**
 	- **Lectures**
 		- **September**
 			- **[[03]]**
