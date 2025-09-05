@@ -9,5 +9,7 @@ edited_seconds: 20
 			- **[[03]]**
 				- [[Basic Arithmetic]]
 				- [[Course Intro]]
+			- **[[05]]**
+				- [[Basic Assembly Info]]
 
 %% End Waypoint %%
