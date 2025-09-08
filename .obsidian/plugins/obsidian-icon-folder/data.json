@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiWifiZero",
-      "LiTableProperties",
-      "LiBook",
-      "LiBriefcase",
-      "LiAxe"
+      "0️⃣",
+      "🏳️‍⚧️",
+      "🔍",
+      "RaBatteryNegative",
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -178,5 +178,9 @@
   "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md": "LiBriefcase",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf": "LiBook",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md": "LiTableProperties",
-  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md": "LiWifiZero"
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md": "0️⃣",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Trace Of A Matrix.md": "LiPen",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md": "RaBatteryNegative",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md": "🔍",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md": "🏳️‍⚧️"
 }
