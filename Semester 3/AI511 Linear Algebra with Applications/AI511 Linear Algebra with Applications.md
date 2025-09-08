@@ -18,5 +18,8 @@ edited_seconds: 40
 				- [[Matrix addition & scalar multiplication]]
 				- [[Matrix Notation & Terminology]]
 				- [[Row Echelon Form]]
+			- **[[08]]**
+				- [[Properties of matrix multiplication]]
+				- [[Zero Matrix]]
 
 %% End Waypoint %%
