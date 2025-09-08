@@ -1,5 +1,5 @@
 ---
-updated_at: 2025-09-08T14:16:56.550+02:00
+updated_at: 2025-09-08T14:38:43.699+02:00
 edited_seconds: 30
 ---
 ## Definition

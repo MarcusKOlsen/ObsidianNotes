@@ -19,7 +19,11 @@ edited_seconds: 40
 				- [[Matrix Notation & Terminology]]
 				- [[Row Echelon Form]]
 			- **[[08]]**
+				- [[Identity Matrix]]
+				- [[Inverse Matrices]]
 				- [[Properties of matrix multiplication]]
+				- [[Trace Of A Matrix]]
+				- [[Transposed Matrice]]
 				- [[Zero Matrix]]
 
 %% End Waypoint %%

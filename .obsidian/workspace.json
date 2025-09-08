@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03b97b3964cbc785",
+            "id": "80b4b777f8b54133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05"
-            }
-          },
-          {
-            "id": "a302b66e329b8bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zero Matrix"
-            }
-          },
-          {
-            "id": "0475b8c8a76f92da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Properties of matrix multiplication"
-            }
-          },
-          {
-            "id": "fff309badb71a5b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Properties of matrix multiplication"
+              "title": "08"
             }
           }
         ]
@@ -183,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05"
+              "title": "Outline of 08"
             }
           }
         ]
@@ -214,49 +172,49 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "03b97b3964cbc785",
+  "active": "80b4b777f8b54133",
   "lastOpenFiles": [
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf",
+    "Semester 3/1Images/Pasted image 20250908143842.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
+    "Semester 3/1Images/Pasted image 20250908144327.png",
+    "Semester 3/1Images/Pasted image 20250908144311.png",
+    "Semester 3/1Images/Pasted image 20250908144308.png",
+    "Semester 3/1Images/Pasted image 20250908144241.png",
+    "Semester 3/1Images/Pasted image 20250908144228.png",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/October/301024/Multiplicative Inverse.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Trace Of A Matrix.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md",
+    "Semester 3/1Images/Pasted image 20250908143934.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/November/111124/Transposition of Matrices.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md",
+    "Semester 3/1Images/Pasted image 20250908143730.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
     "Semester 3/1Images/Pasted image 20250908141638.png",
     "Semester 3/1Images/Pasted image 20250908141524.png",
-    "Semester 3/1Images/Pasted image 20250908141443.png",
-    "Semester 3/1Images/Pasted image 20250908141416.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/01/01.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/1Images/Pasted image 20250905133344.png",
-    "Semester 3/1Images/Pasted image 20250905133208.png",
-    "Semester 3/1Images/Pasted image 20250905133139.png",
-    "Semester 3/1Images/Pasted image 20250905133128.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Data.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Instructions.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Operand Types.md",
-    "Semester 3/1Images/Pasted image 20250905132256.png",
-    "Semester 3/1Images/Pasted image 20250905132229.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Korrekthed og kvalitet af algoritmer.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Algoritmeanalyse.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/110225.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/110325.md",
-    "Semester 2/Algoritmer & Datastrukturer/Algoritmer & Datastrukturer.md",
-    "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Elementary Row Operations.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Row Echelon Form.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Gaussian Elimination.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Augmented Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/11_Planning.pdf",
