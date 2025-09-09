@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cee852273b019b5",
+        "id": "b83c2f22135630d8",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8bcdc494d85db3",
+            "id": "e20e0ae50a1f069c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf"
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Finding the inverse of a matrix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "slides 03 - matrices and matrix operations (cont.), inverses"
+              "icon": "lucide-file",
+              "title": "Finding the inverse of a matrix"
             }
           }
         ]
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Finding the inverse of a matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of slides 03 - matrices and matrix operations (cont.), inverses"
+              "title": "Outline of Finding the inverse of a matrix"
             }
           }
         ]
@@ -170,32 +172,40 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5c8bcdc494d85db3",
+  "active": "e20e0ae50a1f069c",
   "lastOpenFiles": [
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
-    "Pasted image 20250908154359.png",
+    "Semester 3/1Images/Pasted image 20250909122606.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Finding the inverse of a matrix.md",
+    "Semester 3/1Images/Pasted image 20250909123756 1.png",
+    "Semester 3/1Images/Pasted image 20250909123756.png",
+    "Semester 3/1Images/Pasted image 20250909123747.png",
+    "Semester 3/1Images/Pasted image 20250909123726.png",
+    "Semester 3/1Images/Pasted image 20250909123342.png",
+    "Semester 3/1Images/Pasted image 20250909123332.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Matrix Multiplication with elementary row operations.md",
+    "Semester 3/1Images/Pasted image 20250909123105.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Elementary Matrices.md",
+    "Semester 3/1Images/Pasted image 20250909122726.png",
+    "Semester 3/1Images/Pasted image 20250909122719.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Using [[Elementary Matrices.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/slides 04 - inverses (cont.), determinants.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/Untitled.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/November/111124/Transposition of Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
-    "Semester 3/1Images/Pasted image 20250908143842.png",
-    "Semester 3/1Images/Pasted image 20250908144327.png",
-    "Semester 3/1Images/Pasted image 20250908144311.png",
-    "Semester 3/1Images/Pasted image 20250908144308.png",
-    "Semester 3/1Images/Pasted image 20250908144241.png",
-    "Semester 3/1Images/Pasted image 20250908144228.png",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/October/301024/Multiplicative Inverse.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Trace Of A Matrix.md",
-    "Semester 3/1Images/Pasted image 20250908143934.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md",
-    "Semester 3/1Images/Pasted image 20250908143730.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
-    "Semester 3/1Images/Pasted image 20250908141638.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md",
@@ -205,18 +215,10 @@
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Data.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Instructions.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Operand Types.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Korrekthed og kvalitet af algoritmer.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/Algoritmeanalyse.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/Febuary/110225/110225.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/110325/110325.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",
     "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/11_Planning.pdf",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/08_First_order_logic.pdf",
     "Untitled.canvas"
   ]
 }

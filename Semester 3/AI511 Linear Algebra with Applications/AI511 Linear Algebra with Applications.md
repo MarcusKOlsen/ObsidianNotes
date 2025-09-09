@@ -25,5 +25,9 @@ edited_seconds: 40
 				- [[Trace Of A Matrix]]
 				- [[Transposed Matrice]]
 				- [[Zero Matrix]]
+			- **[[09]]**
+				- [[Elementary Matrices]]
+				- [[Finding the inverse of a matrix]]
+				- [[Matrix Multiplication with elementary row operations]]
 
 %% End Waypoint %%

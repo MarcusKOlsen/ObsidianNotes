@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBook",
       "0️⃣",
       "🏳️‍⚧️",
       "🔍",
-      "RaBatteryNegative",
-      "LiPen"
+      "RaBatteryNegative"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -182,5 +182,6 @@
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Trace Of A Matrix.md": "LiPen",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md": "RaBatteryNegative",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md": "🔍",
-  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md": "🏳️‍⚧️"
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md": "🏳️‍⚧️",
+  "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/slides 04 - inverses (cont.), determinants.pdf": "LiBook"
 }
