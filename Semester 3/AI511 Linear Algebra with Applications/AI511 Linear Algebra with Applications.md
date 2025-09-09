@@ -29,5 +29,6 @@ edited_seconds: 40
 				- [[Elementary Matrices]]
 				- [[Finding the inverse of a matrix]]
 				- [[Matrix Multiplication with elementary row operations]]
+				- [[Unique solutions in a system of linear equations]]
 
 %% End Waypoint %%
