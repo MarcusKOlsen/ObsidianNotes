@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Unique solutions in a system of linear equations.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unique solutions in a system of linear equations"
+              "title": "Triangular Matrices"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Unique solutions in a system of linear equations.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unique solutions in a system of linear equations"
+              "title": "Outline of Triangular Matrices"
             }
           }
         ]
@@ -172,23 +172,25 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5fdd144a6ba42325",
+  "active": "e20e0ae50a1f069c",
   "lastOpenFiles": [
+    "Pasted image 20250909134517.png",
+    "Pasted image 20250909134428.png",
+    "Pasted image 20250909134421.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Diagonal Matrices.md",
+    "Semester 3/1Images/Pasted image 20250909134357.png",
+    "Semester 3/1Images/Pasted image 20250909134238.png",
+    "Semester 3/1Images/Pasted image 20250909134201.png",
+    "Semester 3/1Images/Pasted image 20250909134053.png",
+    "Semester 3/1Images/Pasted image 20250909134045.png",
+    "Semester 3/1Images/Pasted image 20250909134002.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Unique solutions in a system of linear equations.md",
     "Semester 3/1Images/Pasted image 20250909133316.png",
     "Semester 3/1Images/Pasted image 20250909133306.png",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Unique solutions in a system of linear equations.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Finding the inverse of a matrix.md",
-    "Semester 3/1Images/Pasted image 20250909132128.png",
-    "Semester 3/1Images/Pasted image 20250909122606.png",
-    "Semester 3/1Images/Pasted image 20250909123756 1.png",
-    "Semester 3/1Images/Pasted image 20250909123756.png",
-    "Semester 3/1Images/Pasted image 20250909123747.png",
-    "Semester 3/1Images/Pasted image 20250909123726.png",
-    "Semester 3/1Images/Pasted image 20250909123342.png",
-    "Semester 3/1Images/Pasted image 20250909123332.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Matrix Multiplication with elementary row operations.md",
-    "Semester 3/1Images/Pasted image 20250909123105.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Elementary Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Using [[Elementary Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
@@ -214,8 +216,6 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/01/01.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Data.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Basic Assembly Info.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",

@@ -26,9 +26,11 @@ edited_seconds: 40
 				- [[Transposed Matrice]]
 				- [[Zero Matrix]]
 			- **[[09]]**
+				- [[Diagonal Matrices]]
 				- [[Elementary Matrices]]
 				- [[Finding the inverse of a matrix]]
 				- [[Matrix Multiplication with elementary row operations]]
+				- [[Triangular Matrices]]
 				- [[Unique solutions in a system of linear equations]]
 
 %% End Waypoint %%
