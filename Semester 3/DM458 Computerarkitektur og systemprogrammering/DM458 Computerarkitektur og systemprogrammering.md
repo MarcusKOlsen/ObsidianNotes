@@ -4,6 +4,8 @@ edited_seconds: 20
 ---
 %% Begin Waypoint %%
 - **[[DM458 Computerarkitektur og systemprogrammering]]**
+	- **Books**
+
 	- **Lectures**
 		- **September**
 			- **[[03]]**
@@ -16,5 +18,7 @@ edited_seconds: 20
 				- [[Executable Programs]]
 				- [[Instructions]]
 				- [[Operand Types]]
+			- **[[12]]**
+				- [[Representing values]]
 
 %% End Waypoint %%

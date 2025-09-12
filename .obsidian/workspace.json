@@ -11,14 +11,12 @@
             "id": "e20e0ae50a1f069c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Triangular Matrices"
+              "icon": "lucide-file-text",
+              "title": "Computer-Organization-Architecture-11th"
             }
           }
         ]
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Triangular Matrices"
+              "title": "Outline of Computer-Organization-Architecture-11th"
             }
           }
         ]
@@ -174,30 +172,41 @@
   },
   "active": "e20e0ae50a1f069c",
   "lastOpenFiles": [
-    "Pasted image 20250909134517.png",
-    "Pasted image 20250909134428.png",
-    "Pasted image 20250909134421.png",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/Representing values.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250912123520.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3",
+    "home/marcus-olsen/Desktop/ObsidianNotes",
+    "home/marcus-olsen/Desktop",
+    "home/marcus-olsen",
+    "home",
+    "Semester 3/1Images/Pasted image 20250912123325.png",
+    "Semester 3/1Images/Pasted image 20250912123246.png",
+    "Semester 3/1Images/Pasted image 20250912123227.png",
+    "Semester 3/1Images/Pasted image 20250912123151.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/12.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/slides.pdf",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
+    "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
+    "Semester 3/1Images/Pasted image 20250909134517.png",
+    "Semester 3/1Images/Pasted image 20250909134428.png",
+    "Semester 3/1Images/Pasted image 20250909134421.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Diagonal Matrices.md",
     "Semester 3/1Images/Pasted image 20250909134357.png",
     "Semester 3/1Images/Pasted image 20250909134238.png",
-    "Semester 3/1Images/Pasted image 20250909134201.png",
-    "Semester 3/1Images/Pasted image 20250909134053.png",
-    "Semester 3/1Images/Pasted image 20250909134045.png",
-    "Semester 3/1Images/Pasted image 20250909134002.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Unique solutions in a system of linear equations.md",
-    "Semester 3/1Images/Pasted image 20250909133316.png",
-    "Semester 3/1Images/Pasted image 20250909133306.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Finding the inverse of a matrix.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Matrix Multiplication with elementary row operations.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Elementary Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Using [[Elementary Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/slides 04 - inverses (cont.), determinants.pdf",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/Untitled.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/slides 03 - matrices and matrix operations (cont.), inverses.pdf",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/November/111124/Transposition of Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md",
@@ -206,20 +215,8 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix addition & scalar multiplication.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Properties of matrix multiplication.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/slides 02 - systems of linear equations (cont.), matrices and matrix operations.pdf",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/05.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Zero Matrix.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05/Matrix Notation & Terminology.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Assembler Directives.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/Executable Programs.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/01/01.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/03/slides.pdf",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/05",
-    "Semester 2/AI501/1ExamPrep/AI/PDFS/03_Simple_Search.pdf",
     "Untitled.canvas"
   ]
 }
