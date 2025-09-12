@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b83c2f22135630d8",
+        "id": "33d72692e99dc62b",
         "type": "tabs",
         "children": [
           {
-            "id": "e20e0ae50a1f069c",
+            "id": "fb545d3657824585",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Computer-Organization-Architecture-11th"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -139,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Computer-Organization-Architecture-11th"
+              "title": "Outline"
             }
           }
         ]
@@ -170,8 +167,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e20e0ae50a1f069c",
+  "active": "fb545d3657824585",
   "lastOpenFiles": [
+    "Semester 3/AI511 Linear Algebra with Applications/Books/linear_algebra.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Books",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th-compressed.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/Representing values.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books",
@@ -187,8 +187,6 @@
     "Semester 3/1Images/Pasted image 20250912123227.png",
     "Semester 3/1Images/Pasted image 20250912123151.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/12.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/slides.pdf",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",

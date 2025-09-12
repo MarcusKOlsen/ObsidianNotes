@@ -4,6 +4,8 @@ edited_seconds: 40
 ---
 %% Begin Waypoint %%
 - **[[AI511 Linear Algebra with Applications]]**
+	- **Books**
+
 	- **Lectures**
 		- **September**
 			- **[[01]]**
