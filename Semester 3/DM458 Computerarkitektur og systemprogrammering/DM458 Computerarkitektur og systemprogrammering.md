@@ -20,5 +20,8 @@ edited_seconds: 20
 				- [[Operand Types]]
 			- **[[12]]**
 				- [[Representing values]]
+			- **[[17]]**
+				- [[Addressing Memory In Assembly]]
+				- [[Addressing Memory]]
 
 %% End Waypoint %%
