@@ -23,5 +23,6 @@ edited_seconds: 20
 			- **[[17]]**
 				- [[Addressing Memory In Assembly]]
 				- [[Addressing Memory]]
+				- [[x86 Functions]]
 
 %% End Waypoint %%
