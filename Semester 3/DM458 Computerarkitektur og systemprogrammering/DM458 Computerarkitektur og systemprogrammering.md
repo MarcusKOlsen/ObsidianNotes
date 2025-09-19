@@ -25,6 +25,7 @@ edited_seconds: 20
 				- [[Addressing Memory]]
 				- [[x86 Functions]]
 			- **[[19]]**
+				- [[Addition & Subtraction  + Multiplication & Division]]
 				- [[Division]]
 				- [[Floating point arithmetic]]
 

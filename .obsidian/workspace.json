@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating point arithmetic"
+              "title": "Addition & Subtraction  + Multiplication & Division"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Floating point arithmetic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Floating point arithmetic"
+              "title": "Outline of Addition & Subtraction  + Multiplication & Division"
             }
           }
         ]
@@ -187,22 +186,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2b426650d2412681",
+  "active": "6dc251569b22f422",
   "lastOpenFiles": [
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132421.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132413.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132400.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132314.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132301.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123033.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123012.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122936.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122917.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122846.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122830.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122752.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122719.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122525.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122502.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/x86 Functions.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19",
@@ -233,7 +234,6 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/Untitled.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/November/111124/Transposition of Matrices.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md",
     "Untitled.canvas"
   ]
 }
