@@ -1,11 +1,11 @@
 ---
-updated_at: 2025-09-19T12:32:28.235+02:00
-edited_seconds: 140
+updated_at: 2025-09-19T12:39:21.147+02:00
+edited_seconds: 160
 ---
 ## Representation
 ![[Pasted image 20250919122719.png]]
 ### Types of representations
-#### Biased (Excess K , offset)
+#### Biased (Excess K , offset) Integer [[Representing values]]
 ![[Pasted image 20250919122830.png]]
 #### Significand
 ![[Pasted image 20250919122846.png]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19"
+              "title": "Floating point arithmetic"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 19"
+              "title": "Outline of Floating point arithmetic"
             }
           }
         ]
@@ -189,8 +189,8 @@
   },
   "active": "2b426650d2412681",
   "lastOpenFiles": [
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123033.png",
