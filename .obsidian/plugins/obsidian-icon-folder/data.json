@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "0️⃣",
-      "🏳️‍⚧️",
-      "🔍",
-      "RaBatteryNegative"
+      "LiBrainCog",
+      "LiBrain",
+      "LiCommand",
+      "LiDivide",
+      "OcDotFill16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -184,5 +184,10 @@
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Identity Matrix.md": "🔍",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Transposed Matrice.md": "🏳️‍⚧️",
   "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/slides 04 - inverses (cont.), determinants.pdf": "LiBook",
-  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books": "LiBook"
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books": "LiBook",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md": "OcDotFill16",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md": "LiDivide",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/x86 Functions.md": "LiCommand",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory.md": "LiBrain",
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md": "LiBrainCog"
 }

@@ -1,6 +1,6 @@
 ---
-updated_at: 2025-09-17T14:47:07.208+02:00
-edited_seconds: 30
+updated_at: 2025-09-18T20:43:14.458+02:00
+edited_seconds: 40
 ---
 [[Addressing Memory|Info]]
 

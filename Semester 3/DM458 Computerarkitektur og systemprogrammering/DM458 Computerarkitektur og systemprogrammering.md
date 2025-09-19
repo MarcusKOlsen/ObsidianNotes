@@ -24,5 +24,8 @@ edited_seconds: 20
 				- [[Addressing Memory In Assembly]]
 				- [[Addressing Memory]]
 				- [[x86 Functions]]
+			- **[[19]]**
+				- [[Division]]
+				- [[Floating point arithmetic]]
 
 %% End Waypoint %%
