@@ -34,5 +34,7 @@ edited_seconds: 40
 				- [[Matrix Multiplication with elementary row operations]]
 				- [[Triangular Matrices]]
 				- [[Unique solutions in a system of linear equations]]
+			- **[[22]]**
+
 
 %% End Waypoint %%

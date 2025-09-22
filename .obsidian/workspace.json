@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addition & Subtraction  + Multiplication & Division"
-            }
-          },
-          {
-            "id": "2b426650d2412681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Floating point arithmetic"
+              "title": "22"
             }
           }
         ]
@@ -155,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Addition & Subtraction  + Multiplication & Division"
+              "title": "Outline of 22"
             }
           }
         ]
@@ -188,14 +174,19 @@
   },
   "active": "6dc251569b22f422",
   "lastOpenFiles": [
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Matrix-multiplication with Strassens algorithm.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/slides 05 - determinants, euclidean vector spaces.pdf",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132421.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132413.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132400.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132314.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132301.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123033.png",
@@ -203,7 +194,6 @@
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122936.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122917.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122846.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122830.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/slides.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/x86 Functions.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19",
@@ -216,11 +206,8 @@
     "Semester 3/AI511 Linear Algebra with Applications/Books",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th-compressed.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/Representing values.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books/Computer-Organization-Architecture-11th.pdf",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Books",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/12.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
@@ -233,7 +220,6 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/08.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/Untitled.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/08/Inverse Matrices.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Lectures/November/111124/Transposition of Matrices.md",
     "Untitled.canvas"
   ]
 }
