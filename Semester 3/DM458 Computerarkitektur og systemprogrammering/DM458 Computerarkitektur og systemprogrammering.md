@@ -7,6 +7,10 @@ edited_seconds: 20
 	- **Books**
 
 	- **Lectures**
+		- **October**
+			- **[[02]]**
+				- [[Karnaugh Maps]]
+				- [[Quine-McCluskey Method]]
 		- **September**
 			- **[[03]]**
 				- [[Basic Arithmetic]]
