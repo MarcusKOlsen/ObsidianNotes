@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/Machine Learning/Lectures/September/30/30.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30"
+              "title": "Dimension"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/Machine Learning/Lectures/September/30/30.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30"
+              "title": "Outline of Dimension"
             }
           }
         ]
@@ -172,19 +172,38 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5fdd144a6ba42325",
+  "active": "6dc251569b22f422",
   "lastOpenFiles": [
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103516.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103505.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/29, 30.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Bases.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103444.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103427.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103408.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Combination & Span.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103341.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103325.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103313.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103303.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Subspaces.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103234.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103223.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Transformations.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/slides 07 - projections (cont.), compositions.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/slides 08 - subspaces, linear combinations, bases and coordinates, dimension.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30",
+    "Semester 3/Machine Learning/Lectures/September/30/30.md",
     "Semester 3/Machine Learning/Notebooks",
     "Semester 3/Machine Learning/Notebooks/01_Basic_Concepts 1.ipynb",
     "Semester 3/Machine Learning/Lectures/September/30/01_Basic_Concepts.ipynb",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
-    "Semester 3/Machine Learning/Lectures/September/30/30.md",
     "Semester 3/Machine Learning/Lectures/September/30",
     "Semester 3/Machine Learning/Lectures/September",
     "Semester 3/Machine Learning/Lectures",
     "Semester 3/Machine Learning",
-    "Semester 1/(DM549, DS820)/Lectures/September/130924/gatesSlides 1.pdf",
-    "Semester 1/(DM549, DS820)/Lectures/September/050924/talReprSlides.pdf",
     "Semester 1/(DM549, DS820)/Lectures/September/September.md",
     "Semester 1/(DM549, DS820)/Lectures/October/231024/231024.md",
     "Semester 1/(DM549, DS820)/Lectures/October/071024/071024.md",
@@ -194,33 +213,14 @@
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Intro.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Matrix-multiplication with Strassens algorithm.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/slides 05 - determinants, euclidean vector spaces.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132421.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132413.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132400.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132314.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919132301.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/19.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123033.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919123012.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122936.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122917.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20250919122846.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/x86 Functions.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/17.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/Representing values.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/12/12.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/05/05.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Diagonal Matrices.md",
     "Untitled.canvas"
   ]
 }

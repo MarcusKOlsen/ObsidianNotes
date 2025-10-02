@@ -36,5 +36,11 @@ edited_seconds: 40
 				- [[Unique solutions in a system of linear equations]]
 			- **[[22]]**
 
+			- **[[29, 30]]**
+				- [[Bases]]
+				- [[Dimension]]
+				- [[Linear Combination & Span]]
+				- [[Linear Transformations]]
+				- [[Subspaces]]
 
 %% End Waypoint %%
