@@ -9,6 +9,8 @@ edited_seconds: 20
 	- **Lectures**
 		- **October**
 			- **[[02]]**
+				- [[Flip Flops]]
+				- [[Important Combinational Circuits]]
 				- [[Karnaugh Maps]]
 				- [[Quine-McCluskey Method]]
 		- **September**

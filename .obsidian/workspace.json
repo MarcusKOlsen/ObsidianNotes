@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dc251569b22f422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dimension"
-            }
-          },
-          {
             "id": "bc156d39387a7a84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quine-McCluskey Method"
+              "title": "Flip Flops"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
+                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quine-McCluskey Method"
+              "title": "Outline of Flip Flops"
             }
           }
         ]
@@ -189,27 +174,30 @@
   },
   "active": "bc156d39387a7a84",
   "lastOpenFiles": [
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002122546.png",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Karnaugh Maps.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002122247.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002122228.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002122214.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131124.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131104.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131052.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131038.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131023.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/02.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002122137.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Important Combinational Circuits.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124714.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124705.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124657.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124426.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124416.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124402.png",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
+    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Karnaugh Maps.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/slides-2.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/17.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Bases.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/29, 30.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103516.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103505.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103444.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103427.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002103408.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Combination & Span.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Subspaces.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Transformations.md",
@@ -233,9 +221,6 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Matrix-multiplication with Strassens algorithm.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Addition & Subtraction  + Multiplication & Division.md",
     "Untitled.canvas"
   ]
 }
