@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flip Flops"
+              "title": "Change of basis"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
+                "file": "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Flip Flops"
+              "title": "Outline of Change of basis"
             }
           }
         ]
@@ -174,20 +174,26 @@
   },
   "active": "bc156d39387a7a84",
   "lastOpenFiles": [
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121921.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121850.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121820.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121748.png",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/07.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/slides 10 - change of basis, fundamental subspaces, rank and nullity.pdf",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07",
+    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131124.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131104.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131052.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131038.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131023.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/02.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Important Combinational Circuits.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124714.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124705.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124657.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124426.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124416.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124402.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Karnaugh Maps.md",
@@ -207,10 +213,7 @@
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30",
     "Semester 3/Machine Learning/Lectures/September/30/30.md",
     "Semester 3/Machine Learning/Notebooks",
-    "Semester 3/Machine Learning/Notebooks/01_Basic_Concepts 1.ipynb",
-    "Semester 3/Machine Learning/Lectures/September/30/01_Basic_Concepts.ipynb",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
-    "Semester 3/Machine Learning/Lectures/September/30",
     "Semester 1/(DM549, DS820)/Lectures/September/September.md",
     "Semester 1/(DM549, DS820)/Lectures/October/231024/231024.md",
     "Semester 1/(DM549, DS820)/Lectures/October/071024/071024.md",
@@ -218,9 +221,6 @@
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Boolsk Algebra & Funktioner på bits.md",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Intro.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/Triangular Matrices.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Floating point arithmetic.md",
     "Untitled.canvas"
   ]
 }

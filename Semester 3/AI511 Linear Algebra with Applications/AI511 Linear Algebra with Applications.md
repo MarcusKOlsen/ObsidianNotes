@@ -7,6 +7,9 @@ edited_seconds: 40
 	- **Books**
 
 	- **Lectures**
+		- **October**
+			- **[[07]]**
+				- [[Change of basis]]
 		- **September**
 			- **[[01]]**
 				- [[Classes]]
