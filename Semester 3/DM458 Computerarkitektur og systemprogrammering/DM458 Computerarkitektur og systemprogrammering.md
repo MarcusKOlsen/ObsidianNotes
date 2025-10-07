@@ -13,6 +13,8 @@ edited_seconds: 20
 				- [[Important Combinational Circuits]]
 				- [[Karnaugh Maps]]
 				- [[Quine-McCluskey Method]]
+			- **[[07]]**
+
 		- **September**
 			- **[[03]]**
 				- [[Basic Arithmetic]]
