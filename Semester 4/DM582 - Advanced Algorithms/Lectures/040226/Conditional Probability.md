@@ -1,13 +1,13 @@
 ---
-updated_at: 2026-02-04T08:47:48.202+01:00
-edited_seconds: 620
+updated_at: 2026-02-04T09:19:46.389+01:00
+edited_seconds: 630
 ---
 
 > [!NOTE] Normal
 > Probability of $E$ given $F$
 > $P(E|F) = \frac{P(E \land F)}{P(F)}$
 
-> [!NOTE] Independent
+> [!NOTE] Independence
 > $P(E \land F) = P(F) \times P(F)$, or $P(E|F) = P(E)$  **The independent condition**
 > $P(E_i \land E_j) = P(E_i) \times P(E_j)$, for all $i \neq j$ **Pairwise independence**
 > $P(E_{i_1} \land P(E_{i_2}) \land \ldots ) = P(E_{i_1}) \times P(E_{i_2}) \times \ldots$ **Mutually independent**
