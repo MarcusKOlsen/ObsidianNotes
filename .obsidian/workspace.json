@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33d72692e99dc62b",
+        "id": "fab159f75f21fb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "bc156d39387a7a84",
+            "id": "4e39492cc95f4d66",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/slides-1.pdf"
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "slides-1"
+              "icon": "lucide-file",
+              "title": "Random Variables"
             }
           }
         ]
@@ -139,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/slides-1.pdf",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of slides-1"
+              "title": "Outline of Random Variables"
             }
           }
         ]
@@ -170,12 +172,33 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bc156d39387a7a84",
+  "active": "4e39492cc95f4d66",
   "lastOpenFiles": [
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/07.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/slides-1.pdf",
+    "Untitled.canvas",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/040226.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Untitled.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/020226.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111922.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111913.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111908.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111151.png",
+    "Semester 4/DM582 - Advanced Algorithms/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
+    "Semester 4/DM582 - Advanced Algorithms/Books",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202103317.png",
+    "Semester 1/(DM549, DS820)/(DM549, DS820).md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures",
+    "Semester 4/DM582 - Advanced Algorithms",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07",
+    "Semester 4",
+    "Semester 3/Machine Learning/Notebooks/11 Ensemble Methods.ipynb",
+    "Semester 3/Machine Learning/Notebooks/10 Kernel Methods.ipynb",
+    "Semester 3/Machine Learning/Notebooks/06 Bayesian Learning.ipynb",
+    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/07.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121921.png",
@@ -183,41 +206,20 @@
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121820.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121748.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/07.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/slides 10 - change of basis, fundamental subspaces, rank and nullity.pdf",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131124.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131104.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131052.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131038.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131023.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/02.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Important Combinational Circuits.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002124714.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
     "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Karnaugh Maps.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/slides-2.pdf",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/17.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Bases.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/29, 30.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Combination & Span.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Subspaces.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Linear Transformations.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/slides 07 - projections (cont.), compositions.pdf",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/slides 08 - subspaces, linear combinations, bases and coordinates, dimension.pdf",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/22/22.md",
-    "Semester 3/Machine Learning/Lectures/September/30/30.md",
-    "Semester 1/(DM549, DS820)/Lectures/September/September.md",
-    "Semester 1/(DM549, DS820)/Lectures/October/231024/231024.md",
-    "Semester 1/(DM549, DS820)/Lectures/October/071024/071024.md",
-    "Semester 1/(DM549, DS820)/Lectures/October/031024/031024.md",
-    "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas",
-    "Untitled.canvas"
+    "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
 }
