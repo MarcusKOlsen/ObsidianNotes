@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fab159f75f21fb4d",
+        "id": "f230979c9c2cf8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "4e39492cc95f4d66",
+            "id": "6555c9be4b9ae495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Harmonic Numbers.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Excersises/1/Exerzz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harmonic Numbers"
+              "title": "Exerzz 1"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Harmonic Numbers.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Excersises/1/Exerzz 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Harmonic Numbers"
+              "title": "Outline of Exerzz 1"
             }
           }
         ]
@@ -172,12 +172,36 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4e39492cc95f4d66",
+  "active": "6555c9be4b9ae495",
   "lastOpenFiles": [
-    "Semester 4/DM510 - Operativsystemer/Books/Abraham Silberschatz-Operating System Concepts (9th,2012_12).pdf",
+    "Semester 4/DM582 - Advanced Algorithms/Excersises/1/1.md",
+    "Semester 4/DM582 - Advanced Algorithms/Excersises/1/Exerzz 1.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/Excersizes/Sheet 1/Sheet 1.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083450.png",
+    "Semester 4/DM583 - Datamining/Lectures/100226/100226.md",
+    "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083218.png",
+    "Semester 4/DM582 - Advanced Algorithms/Excersises/1/sheet1_exercises.pdf",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083211.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083202.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083156.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083147.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083115.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083057.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083049.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083035.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3",
+    "home/marcus-olsen/Desktop/ObsidianNotes",
+    "home/marcus-olsen/Desktop",
+    "home/marcus-olsen",
+    "home",
+    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
+    "Semester 1/(MM537, DM547, DM549, DS820)/(MM537, DM547, DM549, DS820).md",
+    "Semester 4/DM583 - Datamining/Lectures/100226",
+    "Semester 4/DM583 - Datamining/Lectures",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Harmonic Numbers.md",
-    "Semester 4/DM510 - Operativsystemer/Books",
-    "Semester 4/DM510 - Operativsystemer",
+    "Semester 4/DM583 - Datamining",
     "Semester 4/Untitled.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/040226.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables, aka Stochastic Variables.md",
@@ -186,40 +210,16 @@
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Untitled.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/020226.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111922.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111913.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111908.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202111151.png",
-    "Semester 4/DM582 - Advanced Algorithms/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf",
-    "Semester 4/DM582 - Advanced Algorithms/Books",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260202103317.png",
     "Semester 1/(DM549, DS820)/(DM549, DS820).md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures",
-    "Semester 4/DM582 - Advanced Algorithms",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
-    "Semester 4",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/07.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121921.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121850.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121820.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251007121748.png",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/07.md",
     "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/09/09.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Flip Flops.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20251002131124.png",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/02.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Important Combinational Circuits.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Quine-McCluskey Method.md",
-    "Semester 2/Algoritmer & Datastrukturer/Lectures/March/270325/Recursive algorithms.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/02/Karnaugh Maps.md",
-    "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/17.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Bases.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/29, 30.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/September/29, 30/Dimension.md",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
 }
