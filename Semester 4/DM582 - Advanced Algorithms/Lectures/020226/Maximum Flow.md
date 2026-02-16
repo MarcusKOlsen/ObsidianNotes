@@ -1,6 +1,6 @@
 ---
-updated_at: 2026-02-02T11:20:16.942+01:00
-edited_seconds: 750
+updated_at: 2026-02-16T10:32:18.290+01:00
+edited_seconds: 780
 ---
 ![[Pasted image 20260202103317.png]]
 ## Goal
@@ -30,9 +30,8 @@ $f(u,v) + f_{prime}(u,v) - f_{prime}(v,u)$, where $f_{prime}$ is an augmented fl
 > [!NOTE] Ford-Fulkerson method
 > Start off by setting the flow f to zero for all nodes
 > Augment path p in residual network while an augmentable path exists.
->
-> ![[Pasted image 20260202111922.png]]
-
+>![[Pasted image 20260216103045.png]]
+>![[Pasted image 20260216103112.png]]
 
  Gf (RESIDUAL NETWORK)
 > Flow ..., exact antiparallel edges are allowed, meaning something can flow both ways if they equal out.

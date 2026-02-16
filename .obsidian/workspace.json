@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threads v Processes"
+              "title": "Edmands-Karp implementation of Ford-Fulkerson"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Threads v Processes"
+              "title": "Outline of Edmands-Karp implementation of Ford-Fulkerson"
             }
           }
         ]
@@ -174,17 +174,23 @@
   },
   "active": "c54d9cb5ebe9fe26",
   "lastOpenFiles": [
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103721.png",
-    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/100226.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216103112.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216103045.png",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/160226.md",
+    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/week7.pdf",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
-    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Concurrency vs paralellism.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103637.png",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Concurrent Execution Examples.md",
+    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Concurrency vs parallellism.md",
+    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/100226.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103721.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103637.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103606.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103538.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103507.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210103415.png",
-    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/week7.pdf",
     "Semester 4/DM584 - Concurrent Programming/Lectures/week7.pdf",
     "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226",
@@ -199,12 +205,8 @@
     "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083218.png",
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/sheet1_exercises.pdf",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083211.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083202.png",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083156.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3",
-    "home/marcus-olsen/Desktop/ObsidianNotes",
     "Semester 1/(MM537, DM547, DM549, DS820)/(MM537, DM547, DM549, DS820).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Harmonic Numbers.md",
     "Semester 4/Untitled.md",
@@ -213,14 +215,11 @@
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
     "Untitled.canvas",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Untitled.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/020226.md",
     "Semester 1/(DM549, DS820)/(DM549, DS820).md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/07.md",
     "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/Change of basis.md",
-    "Semester 3/AI511 Linear Algebra with Applications/Lectures/October/07/07.md",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
 }
