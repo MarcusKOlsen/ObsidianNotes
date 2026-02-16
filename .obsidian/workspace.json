@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Vertex Cover.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edmands-Karp implementation of Ford-Fulkerson"
+              "title": "Vertex Cover"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Vertex Cover.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Edmands-Karp implementation of Ford-Fulkerson"
+              "title": "Outline of Vertex Cover"
             }
           }
         ]
@@ -175,10 +175,14 @@
   "active": "c54d9cb5ebe9fe26",
   "lastOpenFiles": [
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Vertex Cover.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/160226.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Maximum Bipartite Matching.md",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216112612.png",
+    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216111326.png",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216103112.png",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260216103045.png",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/160226.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/week7.pdf",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
@@ -200,10 +204,8 @@
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/Exerzz 1.md",
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/1.md",
     "Semester 1/(MM537, DM547, DM549, DS820)/Excersizes/Sheet 1/Sheet 1.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083450.png",
     "Semester 4/DM583 - Datamining/Lectures/100226/100226.md",
     "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images/Pasted image 20260210083218.png",
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/sheet1_exercises.pdf",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images",
     "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3",
@@ -219,7 +221,6 @@
     "Semester 1/(DM549, DS820)/(DM549, DS820).md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/DM458 Computerarkitektur og systemprogrammering.md",
     "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/October/07/07.md",
-    "Semester 3/AI511 Linear Algebra with Applications/AI511 Linear Algebra with Applications.md",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
 }

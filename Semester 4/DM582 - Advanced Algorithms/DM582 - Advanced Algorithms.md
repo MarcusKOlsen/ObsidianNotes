@@ -18,5 +18,7 @@ edited_seconds: 10
 			- [[Random Variables, aka Stochastic Variables]]
 		- **[[160226]]**
 			- [[Edmands-Karp implementation of Ford-Fulkerson]]
+			- [[Maximum Bipartite Matching]]
+			- [[Vertex Cover]]
 
 %% End Waypoint %%
