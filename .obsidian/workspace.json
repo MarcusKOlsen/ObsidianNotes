@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f230979c9c2cf8f7",
+        "id": "507016dc46356b3b",
         "type": "tabs",
         "children": [
           {
-            "id": "da982d18725dd524",
+            "id": "d5fdf8f046758d43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/Global Minimum Cut (Undirected Weightless Graph).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Global Minimum Cut (Undirected Weightless Graph)"
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/Global Minimum Cut (Undirected Weightless Graph).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global Minimum Cut (Undirected Weightless Graph)"
+              "title": "Outline"
             }
           }
         ]
@@ -172,54 +167,55 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "da982d18725dd524",
+  "active": "d5fdf8f046758d43",
   "lastOpenFiles": [
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/180226.md",
+    "Semester 4/DM583 - Datamining/Lectures/170226/Data Representations.md",
+    "Semester 4/DM583 - Datamining/Exercises/180226/2_Answers.md",
+    "Semester 4/DM583 - Datamining/Lectures/170226/Operations for data representation.md",
+    "Semester 4/DM583 - Datamining/Exercises/180226/180226.md",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103630.png",
+    "Semester 4/DM583 - Datamining/Lectures/170226/170226.md",
+    "Semester 4/DM583 - Datamining/Lectures/170226/Data_Representation.pdf",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103545.png",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103512.png",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103409.png",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103357.png",
+    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES",
+    "Semester 4/DM583 - Datamining/Exercises/180226/Exercise2_Data_Representation.pdf",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/Parallelism.md",
+    "Semester 4/DM583 - Datamining/Exercises/180226",
+    "Semester 4/DM583 - Datamining/Exercises",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102845.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102804.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102728.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/Threads.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/180226.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102605.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102550.png",
+    "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
+    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/lecture4.pdf",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226",
+    "Semester 4/DM510 - Operativsystemer/Lectures",
+    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/Global Minimum Cut (Undirected Weightless Graph).md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/180226.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Maximum Bipartite Matching.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260216112612.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260216111326.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260216103112.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260216103045.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103721.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103637.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103606.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103538.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103507.png",
-    "Semester 4/DM582 - Advanced Algorithms/1Images/Pasted image 20260210103415.png",
     "Semester 4/DM582 - Advanced Algorithms/1Images",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/_IMAGES",
-    "1Images",
-    "Semester 4/1IMAGES",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3/1Images",
-    "home/marcus-olsen/Desktop/ObsidianNotes/Semester 3",
-    "home/marcus-olsen/Desktop/ObsidianNotes",
-    "home/marcus-olsen/Desktop",
-    "home/marcus-olsen",
-    "home",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
     "Semester 4/DM583 - Datamining/Lectures/100226/100226.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Vertex Cover.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/160226.md",
-    "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Concurrent Execution Examples.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Concurrency vs parallellism.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/100226.md",
-    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/Exerzz 1.md",
     "Semester 4/DM582 - Advanced Algorithms/Excersises/1/1.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/Excersizes/Sheet 1/Sheet 1.md",
-    "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
-    "Semester 1/(MM537, DM547, DM549, DS820)/(MM537, DM547, DM549, DS820).md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Harmonic Numbers.md",
-    "Semester 4/Untitled.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/040226.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables, aka Stochastic Variables.md",
     "Untitled.canvas",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Untitled.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/020226.md",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
 }

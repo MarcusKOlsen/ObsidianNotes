@@ -6,5 +6,12 @@ edited_seconds: 40
 - **[[DM510 - Operativsystemer]]**
 	- **Books**
 
+	- **Lectures**
+		- **[[180226]]**
+			- **_IMAGES**
+
+			- [[Parallelism]]
+			- [[Performance & Correctness]]
+			- [[Threads]]
 
 %% End Waypoint %%

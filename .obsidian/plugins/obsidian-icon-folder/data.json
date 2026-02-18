@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBrainCog",
-      "LiBrain",
-      "LiCommand",
-      "LiDivide",
-      "OcDotFill16"
+      "LiCheck",
+      "LiLectern",
+      "OcMultiSelect24",
+      "LiPickaxe",
+      "OcNumber16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -189,5 +189,15 @@
   "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/19/Division.md": "LiDivide",
   "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/x86 Functions.md": "LiCommand",
   "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory.md": "LiBrain",
-  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md": "LiBrainCog"
+  "Semester 3/DM458 Computerarkitektur og systemprogrammering/Lectures/September/17/Addressing Memory In Assembly.md": "LiBrainCog",
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/Threads.md": "🧵",
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/lecture4.pdf": "LiBook",
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/Parallelism.md": "LiSquareStack",
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES": "LiImage",
+  "Semester 4/DM510 - Operativsystemer": "LiBrainCog",
+  "Semester 4/DM582 - Advanced Algorithms": "OcNumber16",
+  "Semester 4/DM583 - Datamining": "LiPickaxe",
+  "Semester 4/DM584 - Concurrent Programming": "OcMultiSelect24",
+  "Semester 4/DM510 - Operativsystemer/Lectures": "LiLectern",
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md": "LiCheck"
 }
