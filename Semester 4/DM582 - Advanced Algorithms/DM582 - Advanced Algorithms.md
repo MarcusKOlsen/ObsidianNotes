@@ -4,6 +4,8 @@ edited_seconds: 10
 ---
 %% Begin Waypoint %%
 - **[[DM582 - Advanced Algorithms]]**
+	- **1Images**
+
 	- **Books**
 
 	- **Excersises**
@@ -20,5 +22,9 @@ edited_seconds: 10
 			- [[Edmands-Karp implementation of Ford-Fulkerson]]
 			- [[Maximum Bipartite Matching]]
 			- [[Vertex Cover]]
+		- **[[180226]]**
+			- **_IMAGES**
+
+			- [[Global Minimum Cut (Undirected Weightless Graph)]]
 
 %% End Waypoint %%
