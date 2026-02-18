@@ -1,8 +1,8 @@
 {
   "nativeMenus": false,
-  "cssTheme": "Encore",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
-  "accentColor": "#f55c5c",
+  "accentColor": "",
   "enabledCssSnippets": [
     "callout_changer",
     "code_changer",
