@@ -1,6 +1,6 @@
 ---
-updated_at: 2026-02-18T09:53:31.021+01:00
-edited_seconds: 460
+updated_at: 2026-02-23T10:32:36.061+01:00
+edited_seconds: 470
 ---
 ## Definition
 $(A,B)$ cut: $V = A \cup B, \space A \cap B = Ø, \space A \neq Ø, B \neq Ø$ (with $Ø$ denoting empty)
@@ -24,3 +24,6 @@ else
 ### Probability
 $prob(GMC) \geq \frac{1}{\binom{n}{2}}$, with $GMC$ being the Global Minimum Cut.
 This is the probability that you get a particular $GMC$ from the contraction algorithm
+
+## Number of [[Global Minimum Cut (Undirected Weightless Graph)|Global Minimum Cuts]]
+There can always be at most $\binom{n}{2}$ global minimum cuts.

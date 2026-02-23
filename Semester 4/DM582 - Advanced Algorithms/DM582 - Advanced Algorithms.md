@@ -26,5 +26,11 @@ edited_seconds: 10
 			- **_IMAGES**
 
 			- [[Global Minimum Cut (Undirected Weightless Graph)]]
+		- **[[230226]]**
+			- **_IMAGES**
+
+			- [[Las Vegas and Monte Carlo Algorithms]]
+			- [[Max 3 Satisfiability (abbr. MAX 3-SAT)]]
+			- [[Number of Global Minimum Cuts (Probability)]]
 
 %% End Waypoint %%
