@@ -11,14 +11,12 @@
             "id": "d5fdf8f046758d43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Max 3 Satisfiability (abbr. MAX 3-SAT).md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 4/DM510 - Operativsystemer/Lectures/230226/lecture5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Max 3 Satisfiability (abbr. MAX 3-SAT)"
+              "icon": "lucide-file-text",
+              "title": "lecture5"
             }
           }
         ]
@@ -141,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Max 3 Satisfiability (abbr. MAX 3-SAT).md",
+                "file": "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Max 3 Satisfiability (abbr. MAX 3-SAT)"
+              "title": "Outline of DM510 - Operativsystemer"
             }
           }
         ]
@@ -172,11 +170,29 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d5fdf8f046758d43",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/020226.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables, aka Stochastic Variables.md",
+    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
+    "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/CPU Scheduling.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223122346.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/lecture5.pdf",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223122326.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223122229.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223122156.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223122127.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223121939.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES/Pasted image 20260223121921.png",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/_IMAGES",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226/230226.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md",
+    "Semester 4/DM510 - Operativsystemer/Lectures/230226",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Max 3 Satisfiability (abbr. MAX 3-SAT).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Number of Global Minimum Cuts (Probability).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Las Vegas and Monte Carlo Algorithms.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Max 3 Satisfiability (abbr. MAX 3-SAT).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/230226.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/_IMAGES/Pasted image 20260223112513.png",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/_IMAGES",
@@ -184,11 +200,7 @@
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/020226/Maximum Flow.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Edmands-Karp implementation of Ford-Fulkerson.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Random Variables, aka Stochastic Variables.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/040226.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
-    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
-    "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
     "Semester 4/DM583 - Datamining/Lectures/170226/Data Representations.md",
     "Semester 4/DM583 - Datamining/Exercises/180226/2_Answers.md",
     "Semester 4/DM583 - Datamining/Lectures/170226/Operations for data representation.md",
@@ -197,29 +209,15 @@
     "Semester 4/DM583 - Datamining/Lectures/170226/170226.md",
     "Semester 4/DM583 - Datamining/Lectures/170226/Data_Representation.pdf",
     "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103545.png",
-    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103512.png",
-    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103409.png",
-    "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES/Pasted image 20260218103357.png",
     "Semester 4/DM583 - Datamining/Lectures/170226/_IMAGES",
     "Semester 4/DM583 - Datamining/Exercises/180226/Exercise2_Data_Representation.pdf",
     "Semester 4/DM510 - Operativsystemer/Lectures/180226/Parallelism.md",
     "Semester 4/DM583 - Datamining/Exercises/180226",
     "Semester 4/DM583 - Datamining/Exercises",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102845.png",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102804.png",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102728.png",
     "Semester 4/DM510 - Operativsystemer/Lectures/180226/Threads.md",
     "Semester 4/DM510 - Operativsystemer/Lectures/180226/180226.md",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES/Pasted image 20260218102605.png",
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/Threads v Processes.md",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/lecture4.pdf",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226/_IMAGES",
-    "Semester 4/DM510 - Operativsystemer/Lectures/180226",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/180226.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Maximum Bipartite Matching.md",
-    "Semester 4/DM583 - Datamining/Lectures/100226/100226.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Vertex Cover.md",
     "Untitled.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]

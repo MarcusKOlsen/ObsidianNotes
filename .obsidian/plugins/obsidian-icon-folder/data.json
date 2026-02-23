@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCpu",
       "LiCheck",
       "LiLectern",
       "OcMultiSelect24",
-      "LiPickaxe",
-      "OcNumber16"
+      "LiPickaxe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -199,5 +199,6 @@
   "Semester 4/DM583 - Datamining": "LiPickaxe",
   "Semester 4/DM584 - Concurrent Programming": "OcMultiSelect24",
   "Semester 4/DM510 - Operativsystemer/Lectures": "LiLectern",
-  "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md": "LiCheck"
+  "Semester 4/DM510 - Operativsystemer/Lectures/180226/Performance & Correctness.md": "LiCheck",
+  "Semester 4/DM510 - Operativsystemer/Lectures/230226/CPU Scheduling.md": "LiCpu"
 }

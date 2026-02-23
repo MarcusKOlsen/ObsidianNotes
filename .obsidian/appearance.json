@@ -2,7 +2,7 @@
   "nativeMenus": false,
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
-  "accentColor": "#5440ba",
+  "accentColor": "#b63a3a",
   "enabledCssSnippets": [
     "callout_changer",
     "code_changer",
