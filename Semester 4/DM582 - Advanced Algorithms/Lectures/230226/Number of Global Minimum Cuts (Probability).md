@@ -1,6 +1,6 @@
 ---
-updated_at: 2026-02-23T11:10:57.040+01:00
-edited_seconds: 1230
+updated_at: 2026-02-24T11:41:30.843+01:00
+edited_seconds: 1270
 ---
 For $C_1, C_2, C_3, \ldots, C_r$, all [[Global Minimum Cut (Undirected Weightless Graph)|Global Minimum Cuts]] in a any graph $G$, Event $E_i$: find $C_i$,
 the probability of finding any of the Global Minimum Cuts is the probability of the union of all:
@@ -29,8 +29,9 @@ Probability is equal,
 $x_j$ denotes the waiting time from having $j$ coupons to having $j+1$ coupons.
 $$Pr[x_j + 1] = \frac{n-j}{n}, E[X_j] = \frac{1}{\frac{n-j}{n}} = \frac{n}{n-j}$$
 **Total Waiting Time:**
-$$E[\sum^{n-1}_{j=0} X_j] = \sum^{n-1}_{j=0} E[X_j] = \sum^{n-1}_{j=0} \frac{n}{n-j} = n \times \sum^{n-1}_{j=0} \frac{1}{n-j} = n \times \sum^n_{i=1} \frac{1}{i} \in O(n\times log_n)$$
+$$E[\sum^{n-1}_{j=0} X_j] = \sum^{n-1}_{j=0} E[X_j] = \sum^{n-1}_{j=0} \frac{n}{n-j} = n \times \sum^{n-1}_{j=0} \frac{1}{n-j} = n \times \sum^n_{i=1} \frac{1}{i} \in O(n\times log_n)\space aka. \space H(n)$$
 <center> Once again, the harmonic number </center>
+[[Harmonic Numbers]]
 Here, $H(n) = 2.93$ (ish), so the waiting time for $10$ coupons: $H(10) = 29.3$
 
 

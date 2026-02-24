@@ -2112,7 +2112,7 @@ settings:
         id: latex-color
         type: variable-themed-color
         format: hex
-        default-dark: '#e06c75'
+        default-dark: '#fcfcfc'
         default-light: '#a35158'
     -
         title: Workspace
