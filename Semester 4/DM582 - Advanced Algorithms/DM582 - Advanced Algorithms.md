@@ -18,6 +18,10 @@ edited_seconds: 10
 			- [[Conditional Probability]]
 			- [[Harmonic Numbers]]
 			- [[Random Variables, aka Stochastic Variables]]
+		- **[[040326]]**
+			- [[Randomized Quicksort]]
+		- **[[090326]]**
+			- [[Amortized Analysis]]
 		- **[[160226]]**
 			- [[Edmands-Karp implementation of Ford-Fulkerson]]
 			- [[Maximum Bipartite Matching]]
