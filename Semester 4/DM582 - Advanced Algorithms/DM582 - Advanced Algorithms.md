@@ -26,6 +26,9 @@ edited_seconds: 10
 			- [[Edmands-Karp implementation of Ford-Fulkerson]]
 			- [[Maximum Bipartite Matching]]
 			- [[Vertex Cover]]
+		- **[[160326]]**
+			- [[Perfect Hashing]]
+			- [[Universal Hashing]]
 		- **[[180226]]**
 			- **_IMAGES**
 

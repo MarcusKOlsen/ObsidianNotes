@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 4/DM583 - Datamining/Lectures/100326/Classic Agglomerative Hierarchical Clustering Algorithm.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160326/Perfect Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classic Agglomerative Hierarchical Clustering Algorithm"
-            }
-          }
-        ]
-      },
-      {
-        "id": "70c8d7c94bbe605f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5ffcac7a9c7b596",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 4/DM583 - Datamining/Lectures/100326/Hierarchical_Clustering.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Hierarchical_Clustering"
+              "title": "Perfect Hashing"
             }
           }
         ]
@@ -58,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -159,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 4/DM583 - Datamining/Lectures/100326/Classic Agglomerative Hierarchical Clustering Algorithm.md",
+                "file": "Semester 4/DM582 - Advanced Algorithms/Lectures/160326/Perfect Hashing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Classic Agglomerative Hierarchical Clustering Algorithm"
+              "title": "Outline of Perfect Hashing"
             }
           }
         ]
@@ -190,8 +172,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f5f06b2ca173e43e",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160326/160326.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160326/Perfect Hashing.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160326/Universal Hashing.md",
+    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
+    "Semester 4/DM582 - Advanced Algorithms/Lectures/160326",
+    "Semester 4/DM583 - Datamining/Lectures/100326/Classic Agglomerative Hierarchical Clustering Algorithm.md",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082406.png",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082358.png",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082347.png",
@@ -205,11 +193,9 @@
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082237.png",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082215.png",
     "Semester 4/DM583 - Datamining/Lectures/100326/Hierarchical_Clustering.pdf",
-    "Semester 4/DM583 - Datamining/Lectures/100326/Classic Agglomerative Hierarchical Clustering Algorithm.md",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES/Pasted image 20260310082126.png",
     "Semester 4/DM583 - Datamining/Lectures/100326/_IMAGES",
     "Semester 4/DM583 - Datamining/Lectures/170226/170226.md",
-    "Semester 4/DM582 - Advanced Algorithms/DM582 - Advanced Algorithms.md",
     "Semester 4/DM510 - Operativsystemer/DM510 - Operativsystemer.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/090326/Amortized Analysis.md",
     "Semester 4/DM583 - Datamining/Lectures/100326",
@@ -227,17 +213,13 @@
     "Semester 4/DM584 - Concurrent Programming/Lectures/100226/100226.md",
     "Semester 4/DM584 - Concurrent Programming/Lectures/030326",
     "Semester 4/DM510 - Operativsystemer/Lectures/020326/Synchronisation Implementation.md",
-    "Semester 4/DM510 - Operativsystemer/Lectures/020326/_IMAGES/Pasted image 20260302122147.png",
     "Semester 4/DM510 - Operativsystemer/Lectures/020326/Synchronisation.md",
     "Semester 4/DM510 - Operativsystemer/Lectures/020326/Critical Sections.md",
     "Semester 4/DM510 - Operativsystemer/Lectures/020326/Race Condition.md",
     "Semester 4/DM510 - Operativsystemer/Lectures/180226/180226.md",
-    "Semester 4/DM510 - Operativsystemer/Lectures/020326/_IMAGES",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/040226/Conditional Probability.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Las Vegas and Monte Carlo Algorithms.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/160226/Maximum Bipartite Matching.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/180226/Global Minimum Cut (Undirected Weightless Graph).md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/230226/Number of Global Minimum Cuts (Probability).md",
     "Untitled.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]

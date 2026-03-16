@@ -2,7 +2,7 @@
 updated_at: 2026-03-09T12:14:04.755+01:00
 edited_seconds: 1610
 ---
-[[Semester 4/DM582 - Advanced Algorithms/Books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf|CLRS]] Chapter 16
+[[CLRS.pdf|CLRS]] Chapter 16
 
 ## Definition
 Analysis understanding that an operation is not always equally expensive to run (f.eks if priority queues are implemented). Imagine only a few sequences are expensive, and the rest are easy. $O(n)$ is not always indicative of this.
