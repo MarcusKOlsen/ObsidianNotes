@@ -39,5 +39,7 @@ edited_seconds: 10
 			- [[Las Vegas and Monte Carlo Algorithms]]
 			- [[Max 3 Satisfiability (abbr. MAX 3-SAT)]]
 			- [[Number of Global Minimum Cuts (Probability)]]
+		- **[[230326]]**
+			- [[String Matching]]
 
 %% End Waypoint %%
