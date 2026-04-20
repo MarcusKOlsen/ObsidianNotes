@@ -1,11 +1,11 @@
 ---
-updated_at: 2026-03-09T12:14:04.755+01:00
-edited_seconds: 1610
+updated_at: 2026-04-06T23:32:12.541+02:00
+edited_seconds: 1620
 ---
 [[CLRS.pdf|CLRS]] Chapter 16
 
 ## Definition
-Analysis understanding that an operation is not always equally expensive to run (f.eks if priority queues are implemented). Imagine only a few sequences are expensive, and the rest are easy. $O(n)$ is not always indicative of this.
+Analysis understanding that an operation is not always equally expensive to run (f.x if priority queues are implemented). Imagine only a few sequences are expensive, and the rest are easy. $O(n)$ is not always indicative of this.
 
 ## Aggregate Method
 ### Example

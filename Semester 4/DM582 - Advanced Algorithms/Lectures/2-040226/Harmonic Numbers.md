@@ -1,7 +1,7 @@
 ---
-updated_at: 2026-02-26T13:23:42.911+01:00
-edited_seconds: 120
+updated_at: 2026-04-06T23:09:14.471+02:00
+edited_seconds: 130
 ---
 $H_n$ defines as: $\sum_{i=1}^n \frac{1}{i}$, basically sums up to the natural logarithm of $n$
-$ln (n+1) < H_n < ln(n) + 1$
+$logn (n+1) < H_n < logn(n) + 1$
 

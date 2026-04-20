@@ -1,6 +1,6 @@
 ---
-updated_at: 2026-03-23T11:49:24.036+01:00
-edited_seconds: 2630
+updated_at: 2026-04-08T08:30:01.904+02:00
+edited_seconds: 2640
 ---
 ## Terminology
 $\sum$ = alphabet. (example: $\sum = 128$ characters in alphabet)
@@ -136,3 +136,4 @@ DFA:
 | 5        | 1     | 4   | 6   |
 | 6        | **7** | 0   | 0   |
 | **7**    | 1     | 2   | 0   |
+[[String Matching cont]]
