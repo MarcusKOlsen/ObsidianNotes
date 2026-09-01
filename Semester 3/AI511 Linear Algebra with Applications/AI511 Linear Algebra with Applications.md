@@ -11,7 +11,7 @@ edited_seconds: 40
 			- **[[07]]**
 				- [[Change of basis]]
 		- **September**
-			- **[[01]]**
+			- **[[Semester 3/AI511 Linear Algebra with Applications/Lectures/September/01/01]]**
 				- [[Classes]]
 				- [[Systems of linear equations]]
 				- [[Teachers]]
