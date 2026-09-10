@@ -8,7 +8,7 @@ edited_seconds: 10
 
 	- **Excersizes**
 		- **[[Session 1]]**
-			- [[Answers]]
+			- [[Semester 2/Databasesystemer DM576/Excersizes/Session 1/Answers]]
 		- **[[Session 2]]**
 			- [[Session 2 answers]]
 		- **Session 4**
@@ -18,7 +18,7 @@ edited_seconds: 10
 		- **[[Session 9]]**
 			- [[Session 9 answers]]
 		- **[[Session 11]]**
-			- [[Answers]]
+			- [[Semester 2/Databasesystemer DM576/Excersizes/Session 1/Answers]]
 	- **Lectures**
 		- **Febuary**
 			- **[[040225]]**
