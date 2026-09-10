@@ -11,12 +11,14 @@
             "id": "515fb9a4fd87f67e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 5/DM585 Distribueret og webprogrammering/Lectures/_Slides/0 general course information.pdf"
+                "file": "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "0 general course information"
+              "icon": "lucide-file",
+              "title": "Network Applications"
             }
           }
         ]
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 5/DM585 Distribueret og webprogrammering/Lectures/_Slides/0 general course information.pdf",
+                "file": "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,31 +179,35 @@
   },
   "active": "515fb9a4fd87f67e",
   "lastOpenFiles": [
-    "Semester 5/DM586 Cybersikkerhed/Exercises/01/Solution Sheet.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/0_GeneralInfo.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/2_NetworkingFundamentals.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/03",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/02/Untitled",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
     "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/1_CybersecurityFundamentals.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/01/Tasks.pdf",
     "Semester 5/DM571 Software Engineering/DM571 Software Engineering.md",
+    "Semester 5/DM586 Cybersikkerhed/Exercises/02/Networking Fundamentals_Solution.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Exercises/02/Networking Fundamentals_tasks.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Exercises/02/02_Networking Fundamentals.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Exercises/02/02_Networking Fundamentals - Solution.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Exercises/02",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/03",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/NetworkingFundamentals.pdf",
+    "Semester 5/DM571 Software Engineering/Lectures/01/01 Tuesday (Exam & Project info).md",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103549.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103534.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103520.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103510.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103459.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103352.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901101302.png",
+    "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901101226.png",
+    "Semester 5/DM571 Software Engineering/Lectures/September/01/01 Tuesday (Exam & Project info).md",
     "Semester 5/DM586 Cybersikkerhed/Exercises/01/Answers.md",
-    "Semester 5/DM571 Software Engineering/Lectures/September/01 Tuesday",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/Risk and threat analysis.md",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/Attack Trees.md",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/01",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143713.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143649.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143621.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143547.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143514.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143500.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143437.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143420.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/Fundamentals.md",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143318.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES/Pasted image 20260902143258.png",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday/_IMAGES",
-    "Semester 5/(AI510, DM572, DM586) Cybersikkerhed/Lectures/Slides/Untitled",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02 Wednesday",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/01/Risk and threat analysis.md",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/01/Attack Trees.md",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/01/_IMAGES/Pasted image 20260902143713.png",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/01/_IMAGES/Pasted image 20260902143649.png",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/01/Fundamentals.md",
     "Semester 5/DM571 Software Engineering/Lectures/September/01 Tuesday/01 Tuesday (Exam & Project info).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/11-200426/Selection in O(n).md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/11-200426/200426.md",
@@ -219,9 +225,6 @@
     "Semester 4/DM582 - Advanced Algorithms/Lectures/8-160326/Perfect Hashing.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/8-160326/160326.md",
     "Semester 4/DM582 - Advanced Algorithms/Lectures/7-090326/Amortized Analysis.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/7-090326/090326.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/7-160326/Universal Hashing.md",
-    "Semester 4/DM582 - Advanced Algorithms/Lectures/7-160326/Perfect Hashing.md",
     "Untitled.canvas",
     "Semester 1/(DM549, DS820)/Lectures/September/130924/Gates Canvas.canvas"
   ]
