@@ -1,6 +1,6 @@
 ---
-updated_at: 2026-09-10T09:57:59.746+02:00
-edited_seconds: 1420
+updated_at: 2026-09-11T16:16:53.424+02:00
+edited_seconds: 1470
 ---
 ## Architecture Types
 ### Client-Server
@@ -25,6 +25,7 @@ edited_seconds: 1420
 	- Not always connected
 	- Dynamic IP address
 
+---
 ## Process
 - Essentially a thread
 - Multiple running on a host
@@ -45,6 +46,7 @@ edited_seconds: 1420
 		- Mail server process on port 25
 		- On same host
 
+---
 ## Protocols
 - An application layer protocol defines
 	- **Types of messages** 
@@ -130,13 +132,15 @@ edited_seconds: 1420
 	- All the header info
 - Body
 	- Data
+
+---
 ## Transport Layer Protocols
 ### TCP (Transmission Control Protocol)
-- Reliable
-- Flow control
-- Congestion control
-- Connection-oriented
-
+- Provides
+	- Reliable
+	- Flow control
+	- Congestion control
+	- Connection-oriented
 - Does not provide
 	- Timing
 	- Quality of Service

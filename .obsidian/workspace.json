@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "27ecdf09cd051e99",
+        "id": "208b11daa4a487f9",
         "type": "tabs",
         "children": [
           {
-            "id": "515fb9a4fd87f67e",
+            "id": "0cb05a1f0deb671e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 5/DM546 Oversætterkonstruktion/Lectures/_Slides/1_dm546_slides26_010_introduction.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Network Applications"
+              "icon": "lucide-file-text",
+              "title": "1_dm546_slides26_010_introduction"
             }
           }
         ]
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
+                "file": "Semester 5/DM546 Oversætterkonstruktion/Lectures/_Slides/1_dm546_slides26_010_introduction.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,21 +175,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "515fb9a4fd87f67e",
+  "active": "5fdd144a6ba42325",
   "lastOpenFiles": [
-    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/2_NetworkingFundamentals.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/03",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/02/Untitled",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/1_CybersecurityFundamentals.pdf",
+    "Semester 5/DM546 Oversætterkonstruktion/Lectures/_Slides/0_dm546_slides26_000_logistics.pdf",
+    "Semester 5/DM546 Oversætterkonstruktion/Lectures/_Slides/1_dm546_slides26_010_introduction.pdf",
     "Semester 5/DM571 Software Engineering/DM571 Software Engineering.md",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/02/Networking Fundamentals_Solution.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/02/Networking Fundamentals_tasks.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/02/02_Networking Fundamentals.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/02/02_Networking Fundamentals - Solution.pdf",
-    "Semester 5/DM586 Cybersikkerhed/Exercises/02",
+    "Semester 5/DM546 Oversætterkonstruktion/Lectures/_Slides",
+    "Semester 5/DM546 Oversætterkonstruktion/Lectures",
+    "Semester 5/DM546 Oversætterkonstruktion",
+    "Semester 5/DM571 Software Engineering/Lectures/_Slides/Lecture 3.pdf",
+    "Semester 5/DM585 Distribueret og webprogrammering/Lectures/_Slides/B.1.2 Slides.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/3_ApplicationLayer_v1.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/2_NetworkingFundamentals.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/1_CybersecurityFundamentals.pdf",
+    "Semester 5/DM586 Cybersikkerhed/Lectures/03/Network Applications.md",
     "Semester 5/DM586 Cybersikkerhed/Lectures/03",
-    "Semester 5/DM586 Cybersikkerhed/Lectures/_Slides/NetworkingFundamentals.pdf",
     "Semester 5/DM571 Software Engineering/Lectures/01/01 Tuesday (Exam & Project info).md",
     "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103549.png",
     "Semester 5/DM571 Software Engineering/Lectures/_IMAGES/Pasted image 20260901103534.png",
